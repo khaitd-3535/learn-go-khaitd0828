@@ -1,0 +1,436 @@
+- **Tour**: A journey through a place or subject.
+- **Components**: The basic parts or elements of something.
+- **Get you off the ground**: To help you start something successfully.
+- **Useful**: Able to be used for a practical purpose or in several ways.
+- **Indeed**: Used to emphasize a statement or answer.
+- **Aimed at**: Directed at; intended to reach.
+- **Tasks**: A piece of work to be done or undertaken.
+- **Real world**: The existing state of things, as opposed to an idealistic or theoretical one.
+- **Diversity**: A range of different things.
+- **Ranging from**: Including a variety of things between two points.
+- **Graphics**: The use of diagrams in calculation and design.
+- **Concurrent**: Existing, happening, or done at the same time.
+- **Internet clients and servers**: Programs that communicate over a network. A client requests services, and a server provides them.
+- **Effective**: Successful in producing a desired or intended result.
+- **Tendency**: An inclination toward a particular characteristic or type of behavior.
+- **Bias**: A prejudice in favor of or against one thing, person, or group compared with another, usually in a way considered to be unfair.
+- **Illustrate**: Explain or make (something) clear by using examples, charts, pictures, etc.
+- **Guide**: A person or thing that shows the way.
+- **Traditional**: Existing in or as part of a tradition; long-established.
+- **"Hello, world" example**: A simple program that prints "Hello, World!" on the screen, often used as the first program for beginners in a new language.
+- **Published**: (Of a book, periodical, etc.) prepared and issued for public sale, distribution, or readership.
+- **Direct influences**: Something that has a straight and immediate effect on something else.
+- **Central ideas**: The main points or concepts.
+- **Compiled language**: A programming language whose implementations are typically compilers (translators that generate machine code from source code).
+- **Toolchain**: A set of programming tools that is used to perform a complex software development task.
+- **Converts**: Change the form, character, or function of something.
+- **Source program**: A program written in a high-level programming language.
+- **Depends on**: To be reliant on someone or something.
+- **Instructions**: A direction or order.
+- **Native machine language**: The language directly understood by the computer's processor (CPU).
+- **Accessed**: To be able to get at, obtain, or make use of.
+- **Subcommands**: A command that is part of a larger command.
+- **Compiles**: Convert (a program) into a machine-code or lower-level form in which the program can be executed.
+- **Source files**: A file containing source code.
+- **Links**: In computing, to connect (program modules) so that they can be executed as a single unit.
+- **Libraries**: A collection of non-volatile resources used by computer programs.
+- **Resulting executable file**: The file produced by a compiler that can be run by the operating system.
+- **Command prompt**: A symbol on a screen that indicates that the computer is ready to receive a command.
+- **Surprisingly**: In a way that causes surprise.
+- **Natively**: By nature; innately.
+- **Unicode**: An international encoding standard for use with different languages and scripts.
+- **Process**: Perform a series of mechanical or chemical operations on (something) in order to change or preserve it.
+- **One-shot experiment**: An experiment that is performed only once.
+- **Binary file**: A file whose content is in a format other than a human-readable text format.
+- **Fetch**: Go for and then bring back (someone or something) for someone.
+- **Corresponding**: Similar in character, form, or function.
+- **Repository**: A central location in which data is stored and managed.
+- **Organized**: Arranged in a systematic way.
+- **Packages**: In Go, a way to organize code, similar to libraries or modules.
+- **Modules**: In other languages, a file containing a set of functions, classes, and variables.
+- **Consists of**: Be composed or made up of.
+- **Directory**: A location for storing files on a computer system.
+- **Declaration**: A formal or explicit statement or announcement.
+- **Imports**: Bring (a file, data, etc.) into one's computer from another system or program.
+- **Declarations of the program**: The part of a program that specifies the names and types of variables, functions, etc.
+- **Standard library**: The library of pre-written functions and data types that comes with a programming language.
+- **Common tasks**: Activities that are done frequently.
+- **Input and output**: The communication between an information processing system (such as a computer), and the outside world.
+- **Sorting**: Arranging items in a particular order.
+- **Text manipulation**: The process of editing or changing text.
+- **Instance**: An example or single occurrence of something.
+- **Formatted output**: Output that is arranged in a particular way.
+- **Scanning input**: Reading and interpreting input data.
+- **Basic**: Forming an essential foundation or starting point; fundamental.
+- **Values**: A quantity or number.
+- **Separated**: Cause to move or be apart.
+- **Newline character**: A special character that indicates the end of a line of text.
+- **Standalone executable program**: A program that can run on its own, without needing any other software.
+- **Library**: A collection of resources used to develop software.
+- **Execution of the program begins**: The point at which the computer starts to carry out the instructions in a program.
+- **Normally**: Under normal or usual conditions; as a rule.
+- **Call upon**: To ask or demand that someone do something.
+- **Unnecessary**: Not needed.
+- **Strict requirement**: A rule that must be followed.
+- **Prevents**: To stop something from happening.
+- **Accumulating**: Gradually gathering or acquiring (a number or quantity of something).
+- **Evolve**: Develop gradually.
+- **Constants**: A value that does not change.
+- **Types**: A category of things having common characteristics.
+- **Parameter list**: The list of variables that are passed to a function.
+- **Result list**: The list of variables that are returned from a function.
+- **Body of the function**: The part of a function that contains the statements that define what it does.
+- **Semicolons**: A punctuation mark (;) indicating a pause, typically between two main clauses, that is more pronounced than that indicated by a comma.
+- **Parsing**: Analyze (a string or text) into logical syntactic components.
+- **Stance**: The attitude of a person or organization toward something; a standpoint.
+- **Code formatting**: The arrangement of text and spaces in a computer program.
+- **gofmt**: A tool that automatically formats Go source code.
+- **By fiat**: By a formal authorization or proposition; a decree.
+- **Pointless debate**: A discussion with no useful purpose.
+- **Trivia**: Details, considerations, or pieces of information of little importance or value.
+- **Infeasible**: Not possible to do easily or conveniently.
+- **Arbitrary**: Based on random choice or personal whim, rather than any reason or system.
+- **Configured**: Arrange or put together in a particular way.
+- **goimports**: A tool that in addition to formatting Go code, also manages import declarations.
+- **Distribution**: The action of sharing something out among a number of recipients.
+- **Command-line arguments**: Additional pieces of information passed to a program when it is started.
+- **Input data**: Information that is fed into a computer system for processing.
+- **External source**: A source located outside the immediate system or program.
+- **Network connection**: A link between two or more computing devices that enables them to exchange data.
+- **Platform-independent**: Able to run on any computer system regardless of the operating system or hardware.
+- **Slice**: A dynamically-sized sequence of array elements in Go.
+- **Fundamental notion**: A basic or essential concept.
+- **Dynamically sized**: Able to change in size during program execution.
+- **Sequence**: A particular order in which related things follow each other.
+- **Array elements**: Individual items stored in an array.
+- **Accessed**: To retrieve or use data from a storage device.
+- **Contiguous subsequence**: A continuous part of a sequence.
+- **Half-open intervals**: An interval that includes one endpoint but excludes the other.
+- **Indexing**: The process of using an index to locate data.
+- **Simplifies logic**: Makes the reasoning or process easier to understand or implement.
+- **Abbreviate**: Shorten (a word, phrase, or text).
+- **Implementation**: The process of putting a decision or plan into effect; execution.
+- **Parenthesized list**: A list enclosed in parentheses.
+- **Legal**: Permitted by law or rules.
+- **Conventionally**: According to or by means of convention or custom.
+- **Alphabetical order**: The arrangement of items in order according to the letters of the alphabet.
+- **Commentary**: A descriptive account of an event or performance as it happens.
+- **Convention**: A way in which something is usually done.
+- **Preceding**: Coming before something in order, position, or time.
+- **Explicitly**: In a clear and detailed manner, leaving no room for confusion or doubt.
+- **Implicitly**: In a way that is not directly expressed; tacitly.
+- **Zero value**: The default value assigned to variables that are not explicitly initialized.
+- **Numeric types**: Types that represent numbers (integers, floats, etc.).
+- **Arithmetic**: The branch of mathematics dealing with the properties and manipulation of numbers.
+- **Logical operators**: Symbols used to perform logical operations (AND, OR, NOT).
+- **Concatenates**: Link (things) together in a chain or series.
+- **Assignment statement**: A statement that sets and/or re-sets the value stored in the storage location(s) denoted by a variable name.
+- **Equivalent**: Equal in value, amount, function, meaning, etc.
+- **Quadratic process**: A process where the time or resources needed grows with the square of the input size.
+- **Inefficiency**: The state of not achieving maximum productivity; wasting effort or materials.
+- **Short variable declaration**: A concise syntax to declare and initialize variables in Go using `:=`.
+- **Initializer**: The value assigned to a variable when it is declared.
+- **Increment**: An increase or addition, especially one of a series on a fixed scale.
+- **Decrement**: A reduction or diminution.
+- **Postfix**: A notation in which operators follow their operands.
+- **Mandatory**: Required by law or rules; compulsory.
+- **Iteration**: The repetition of a process or utterance.
+- **Infinite loop**: A sequence of instructions that applies to a computer program which loops endlessly.
+- **Terminated**: Bring to an end.
+- **Range**: The area of variation between upper and lower limits on a particular scale.
+- **Pair**: Two things of the same kind used together.
+- **Blank identifier**: An identifier denoted by an underscore (_) that can be used to discard values.
+- **Underscore**: A line drawn under a word or used as a character (_).
+- **Syntax requirements**: Rules that specify the structure of a language.
+- **Discard**: Get rid of (someone or something) as no longer useful or desirable.
+- **Unwanted**: Not desired or needed.
+- **Implicit**: Implied though not plainly expressed.
+- **Explicit**: Stated clearly and in detail.
+- **Compact**: Closely and neatly packed together.
+- **Redundant**: Not or no longer needed or useful; superfluous.
+- **Garbage-collected**: Automatically reclaimed memory that is no longer in use.
+- **Due course**: At the appropriate time; in the natural order of things.
+- **Benchmark tests**: A test used to measure the performance of a program.
+- **Systematic**: Done or acting according to a fixed plan or system; methodical.
+- **Performance evaluation**: The process of assessing how well a program performs.
+- **Variants**: A form or version of something that differs in some respect from other forms of the same thing.
+- **Inspired by**: To be the source of an idea or motivation for something.
+- **Adjacent**: Next to or adjoining something else.
+- **On the fly**: While in motion or progress; spontaneously.
+- **Constant-time**: In computer science, an operation that always takes the same amount of time regardless of input size (O(1)).
+- **Retrieve**: Get or bring (something) back; recover.
+- **Intentional**: Done on purpose; deliberate.
+- **Specify**: Identify clearly and definitely.
+- **Breaks into**: Divide something into smaller parts.
+- **Subsequent**: Coming after something in time; following.
+- **Releases resources**: To free up system resources (like memory or file handles) so they can be used elsewhere.
+- **Simple-minded**: Lacking sophistication or subtle understanding; basic.
+- **Standard error stream**: The default destination for error messages in an operating system.
+- **Verb**: In formatting strings (like in Printf), a placeholder that defines how a value should be displayed (e.g., %v, %d).
+- **Enclosing loop**: The loop that contains the current statement.
+- **Cavalier**: Showing a lack of proper concern; dismissive.
+- **Reference**: In Go, a value that points to an underlying data structure.
+- **Underlying data structure**: The actual way data is organized in memory, which a reference points to.
+- **Streaming mode**: A way of processing data where it is read and handled bit by bit or line by line, rather than all at once.
+- **Arbitrary amount**: Any quantity, regardless of how large or small.
+- **In one big gulp**: All at once; in a single large action.
+- **Opposite**: Completely different; of a contrary kind.
+- **Simplified**: To make less complex or complicated; make plainer or easier.
+- **Named files**: Files that have specific filenames associated with them.
+- **Byte slice**: A sequence of bytes; in Go, a dynamic array-like structure holding bytes.
+- **Converted**: Change the form, character, or function of something.
+- **Under the covers**: (Idiom) Underlying implementation; secretly or hidden from view; in the context of software, it refers to the low-level workings hidden by an abstraction.
+- **Rare**: Not occurring very often.
+- **Lower-level routines**: Functions or procedures that interact more directly with the hardware or system resources.
+- **Higher-level functions**: Functions that provide a more abstract and easier-to-use interface.
+- **Duplicated**: Exactly like something else, especially through having been copied.
+- **Occurs**: To happen or take place.
+- **Standard input**: The default stream where a program takes its input data.
+- **Newline character**: A special character indicating the end of a line of text.
+- **Retrieve**: To get something back from a particular place.
+- **Formatted output**: Output that is arranged in a particular way.
+- **Format string**: A template string used by Printf to specify how to format its arguments.
+- **Subsequent arguments**: The arguments that come after the first one.
+- **Conversion character**: A letter (like d, s, f) following a percent sign in a format string.
+- **Decimal notation**: Representing numbers in base-10.
+- **Specification**: A detailed description of the design and materials used to make something.
+- **Illustrates**: To serve as an example of.
+- **String literals**: A sequence of characters enclosed in quotes in source code.
+- **Escape sequences**: A sequence of characters that does not represent itself when used inside a string literal (e.g., \n).
+- **Invisible characters**: Characters that do not have a visual representation (like spaces, tabs, or newlines).
+- **Convention**: A way in which something is usually done.
+- **Sequence**: A particular order in which related things follow each other.
+- **Handle**: To manage, deal with, or be responsible for.
+- **Demonstrates**: Shows clearly; gives proof of.
+- **Bit-mapped images**: Images defined by a series of bits representing pixels.
+- **Encode**: Convert into a coded form.
+- **Staple**: A main or important element of something.
+- **Visual effect**: An image created to entertain or simulate reality in film/media.
+- **Sci-fi (Science Fiction)**: Fiction based on imagined future scientific or technological advances.
+- **Parametric curves**: Curves defined by a set of equations.
+- **Harmonic oscillation**: A repetitive movement back and forth (like a sine wave).
+- **Oscilloscope**: A laboratory instrument that displays the shape of voltage signals.
+- **Constructs**: Concepts or ideas; in programming, language features.
+- **Floating-point computations**: Arithmetic using numbers with fractional parts.
+- **Pushing off**: Postponing or delaying.
+- **Libraries**: Collections of pre-written code.
+- **Revolutions**: Instances of revolving; turns.
+- **Resolution**: The degree of detail visible in an image.
+- **Canvas**: The background area on which an image is drawn.
+- **Relative frequency**: How often something happens divided by all outcomes.
+- **Phase difference**: The difference in position between two waves.
+- **Components**: Parts or elements of a larger whole.
+- **Instantiating**: Creating an instance of an object or class.
+- **Notation**: A system of symbols.
+- **Compact**: Closely and neatly packed together.
+- **Struct**: A composite data type that groups together zero or more underlying types into a single entity.
+- **Field**: An individual component or variable within a struct.
+- **Unit**: An individual thing or person regarded as single and complete but which can also form an individual component of a larger or more complex whole.
+- **Literal**: A notation for representing a fixed value in source code.
+- **Dot notation**: A syntax used to access the properties or methods of an object or struct.
+- **Assignment**: The process of setting or resetting the value stored in a storage location denoted by a variable name.
+- **Nested loop**: A loop inside another loop.
+- **Iteration**: A single execution of a set of instructions that are to be repeated.
+- **Palette**: A finite set of colors used in an image.
+- **Pixel**: The smallest unit of a digital image or graphic that can be displayed and represented on a digital display device.
+- **Append**: To add something to the end of a document, list, or sequence.
+- **Encoded**: Converted into a coded form.
+- **Oscillator**: A circuit or function that produces a repetitive, oscillating signal.
+- **Sinusoid**: A curve having the form of a sine wave.
+- **Frequency**: The number of cycles per unit of time of a periodic phenomenon.
+- **Phase**: The position of a point in time on a cycle of a recurring waveform.
+- **Hexadecimal**: Relating to or using a system of numerical notation that has 16 rather than 10 as its base.
+- **Intensity**: The measurable amount of a property, such as force, brightness, or a magnetic field.
+- **Fetching**: The act of going for and bringing back something.
+- **Local file system**: The storage system on the computer itself, not over a network.
+- **Grouped under**: Classified or organized within a specific category.
+- **Low-level network connections**: Direct connections to network protocols without many layers of abstraction.
+- **Concurrency features**: Language features that allow parts of a program to run independently or at the same time.
+- **Particularly**: To a higher degree than is usual or average.
+- **Minimum necessary**: The smallest amount required to achieve a goal.
+- **Retrieve**: To get something back from a source.
+- **Uninterpreted text**: Raw text that has not been processed or analyzed for meaning.
+- **Invaluable**: Extremely useful; indispensable.
+- **Utility**: A small program designed for a specific, often administrative, task.
+- **Inspired by**: Influenced or motivated by an existing idea or work.
+- **Obviously**: In a way that is easily perceived or understood; clearly.
+- **Frequently**: Often; many times.
+- **HTTP request**: A message sent by a client to a server to request a resource or action.
+- **Readable stream**: A sequence of data that can be read one piece at a time.
+- **Leaking resources**: A failure to release system resources (like memory or file handles), leading to inefficiency or crashes.
+- **Status code**: A numerical code returned by a server to indicate the outcome of an HTTP request.
+- **Buffer**: A temporary storage area in memory.
+- **Prefix**: A string added to the beginning of another string.
+- **Concurrently**: At the same time; simultaneously.
+- **Novel**: New or unusual in an interesting way.
+- **Devoted**: Very loving or loyal; in a technical context, dedicated to a specific topic.
+- **Goroutines**: A lightweight thread managed by the Go runtime.
+- **Channels**: A communication pipe between goroutines.
+- **Elapsed time**: The amount of time that has passed from the start of an event to its end.
+- **Discards**: Get rid of (someone or something) as no longer useful or desirable.
+- **Asynchronously**: Not occurring at the same time; in programming, tasks that start and run independently of the main program flow.
+- **Blocks**: To stop or interrupt the flow of execution until a certain condition is met (like a channel operation).
+- **Interleaving**: To arrange in alternate layers; in concurrency, when output from different threads/goroutines mixes together.
+- **Succession**: A number of people or things of a similar kind following one after the other.
+- **Caching**: Storing data in a temporary storage area so that future requests for that data can be served faster.
+- **Coping**: To deal effectively with something difficult.
+- **Web server**: A software program that serves web pages or web resources over HTTP.
+- **Minimal**: Of a minimum amount, quantity, or degree; negligible.
+- **Path component**: The part of a URL that identifies a specific resource on a server.
+- **Listening**: In networking, the state where a server is waiting for incoming connection requests.
+- **Port**: A communication endpoint in an operating system.
+- **Extracts**: To pull out or remove something from a source.
+- **Background**: In computing, a process that runs without direct user interaction.
+- **Ampersand**: The symbol (&) used to represent the word "and" or, in shells, to run a command in the background.
+- **Counter**: A variable or mechanism used to keep track of the number of times an event occurs.
+- **Invoke**: To call or activate a function or procedure.
+- **Pattern**: A template or set of rules used for matching (e.g., URL patterns for handlers).
+- **Prefix**: A sequence of characters at the beginning of a string.
+- **Behind the scenes**: (Idiom) Underlying implementation; secretly or hidden from view; in the context of software, it refers to the low-level workings hidden by an abstraction.
+- **Simultaneously**: At the same time.
+- **Consistently**: In a way that is reliable or stays the same over time.
+- **Race condition**: A situation in which the behavior of a program depends on the relative timing of events, often leading to unpredictable results in concurrent programming.
+- **Ensure**: To make certain that something will happen.
+- **Bracket**: To enclose or surround something (like using Lock/Unlock around a variable access).
+- **Shared variables**: Variables that can be accessed and modified by multiple threads or goroutines.
+- **Inspect**: To look at something closely, typically to assess its condition or to discover something.
+- **Header**: In HTTP, a component of a request or response message that provides metadata about the message.
+- **Form data**: Information submitted by a user through an HTML form.
+- **Nest**: To place one control structure (like an `if` statement) inside another.
+- **Precede**: To come before something in time, order, or rank.
+- **Scope**: The region of a program where a defined name (variable, function, etc.) is valid or accessible.
+- **Sink**: In computing, a device or function that receives data from other nodes or processes (e.g., `ioutil.Discard`).
+- **Satisfy**: In Go, a type satisfies an interface if it implements all the methods defined by that interface.
+- **Interface**: A collection of method signatures that a type can implement to provide a common set of behaviors.
+- **Function literal**: An anonymous function defined without a name, often used as an argument to other functions.
+
+### 1.8. Loose Ends
+
+- **Loose Ends**: Unresolved minor details or remaining issues at the end of a project or discussion.
+- **Introduced**: Presented for the first time.
+- **Covered**: Dealt with a subject; included.
+- **Barely touched upon**: Mentioned briefly or superficially.
+- **Omitted entirely**: Left out completely; excluded.
+- **Familiar**: Known or recognized.
+- **Brief appearances**: Short, infrequent showings.
+- **Full treatment**: Thorough and complete explanation or handling.
+- **Control flow**: The order in which individual statements, instructions or function calls of an imperative program are executed.
+- **Fundamental**: Forming a necessary base or core; of central importance.
+- **Control-flow statements**: Programming constructs that alter the normal sequential execution of instructions (e.g., `if`, `for`, `switch`).
+- **Multi-way branch**: A control flow statement that allows execution to choose among several alternatives based on the value of an expression.
+- **Coinflip**: An action of tossing a coin to decide between two alternatives.
+- **Heads**: One side of a coin.
+- **Tails**: The other side of a coin.
+- **Landed on edge**: An improbable outcome where a coin lands on its side.
+- **Evaluated**: Assessed or appraised.
+- **Executed**: Carried out; performed.
+- **Optional**: Available to be chosen but not obligatory.
+- **Default case**: A case in a switch statement that is executed if no other case matches.
+- **Fall through**: In switch statements, the behavior of executing the next case after a matching case, without an explicit break.
+- **C-like languages**: Programming languages that share syntax and features with the C language (e.g., C++, Java, JavaScript, Go).
+- **Rarely used**: Not used frequently.
+- **Fallthrough statement**: A Go-specific keyword used in a `switch` statement to explicitly allow execution to continue to the next case.
+- **Overrides**: Uses authority to reject or cancel (a decision, view, etc.); takes precedence over.
+- **Behavior**: The way in which an animal or person acts in response to a particular situation or stimulus.
+- **Operand**: A quantity or function on which an operation is performed.
+- **Boolean expression**: An expression that evaluates to either true or false.
+- **Tagless switch**: A `switch` statement in Go without an explicit operand, equivalent to `switch true`.
+- **Equivalent to**: Equal in value, amount, function, meaning, etc.
+- **Simple statement**: A basic, single programming instruction (e.g., assignment, increment, short variable declaration).
+- **Variable declaration**: A statement that introduces a new variable name and its type.
+- **Increment statement**: A statement that increases the value of a variable, typically by one.
+- **Assignment statement**: A statement that gives a value to a variable.
+- **Function call**: An instruction that transfers program control to a named function.
+- **Tested**: Examined or tried to ascertain its qualities.
+- **Break statement**: A control flow statement that terminates the execution of the innermost loop or switch statement and transfers control to the statement immediately following.
+- **Continue statement**: A control flow statement that skips the rest of the current iteration of a loop and proceeds to the next iteration.
+- **Modify**: Make partial or minor changes to (something), typically to improve it or to make it less extreme.
+- **Resume**: Begin again or continue after a pause or interruption.
+- **Innermost**: Closest to the center; most deeply situated.
+- **Select statement**: A control flow statement in Go used with channels to wait on multiple communication operations.
+- **Iteration**: The repetition of a process or utterance.
+- **Labeled statements**: Statements that are prefixed with an identifier and a colon, allowing `break` and `continue` to target them.
+- **For instance**: For example.
+- **Nested loops**: Loops that are contained within other loops.
+- **Outermost loop**: The loop that contains all other loops.
+- **Goto statement**: A control flow statement that causes an unconditional jump to a specified label. Generally discouraged in modern programming.
+- **Machine-generated code**: Code produced automatically by a computer program rather than written by a human programmer.
+- **Regular use**: Normal or common usage.
+- **Programmers**: People who write computer programs.
+- **Named types**: In Go, a new type defined with a name using the `type` keyword, often based on an existing type.
+- **Type declaration**: A statement that defines a new type or an alias for an existing type.
+- **Existing type**: A type that is already defined in the language or library.
+- **Struct types**: User-defined data types that group related data items of different types into a single unit.
+- **Familiar example**: A well-known instance or case.
+- **Definition**: A statement of the exact meaning of a word, especially in a dictionary.
+- **Point type**: A custom data type representing a point, typically with X and Y coordinates.
+- **Graphics system**: A software or hardware system for generating and displaying images.
+- **Pointers**: Variables that store memory addresses of other variables.
+- **Values**: A quantity or number.
+- **Address of a variable**: The memory location where a variable's data is stored.
+- **Notably**: Especially; in particular.
+- **Unconstrained**: Not restricted or limited.
+- **Disguised as**: Made to appear as something else.
+- **References**: In some languages, a variable that refers to the memory location of another variable, often with automatic dereferencing.
+- **Explicitly visible**: Clearly and plainly seen or understood.
+- **Yields**: Produces or provides (a natural or agricultural product).
+- **Retrieves**: Gets or brings (something) back; recovers.
+- **Pointer arithmetic**: The ability to perform arithmetic operations (addition, subtraction) on memory addresses stored in pointers. Generally not allowed in Go for safety.
+- **Methods**: Functions associated with a particular type.
+- **Interfaces**: Abstract types that define a set of methods. Any type that implements all methods of an interface is said to satisfy that interface.
+- **Associated with**: Connected with something else.
+- **Unusual**: Not common or typical.
+- **Attached to**: Connected or joined to something.
+- **Abstract types**: Types that cannot be directly instantiated but define common behavior for concrete types.
+- **Concrete types**: Specific, non-abstract data types that can be instantiated.
+- **Represented**: Portrayed or depicted.
+- **Implemented**: Carried out; put into effect.
+- **Subject**: The topic of something.
+- **Packages**: In Go, a collection of source files in the same directory that are compiled together and provide functionality.
+- **Extensive**: Covering or affecting a large area.
+- **Standard library**: A library of pre-written functions and data types that comes with a programming language.
+- **Useful**: Able to be used for a practical purpose or in several ways.
+- **Community**: A group of people living in the same place or having a particular characteristic in common.
+- **Programming**: The process of writing computer programs.
+- **Original code**: Code that has been newly created, not copied or adapted.
+- **Throughout**: In every part of (an area or object).
+- **Point out**: To direct attention toward something.
+- **Couple of dozen**: Approximately twenty-four.
+- **Important**: Of great significance or value.
+- **Standard packages**: Packages that are part of Go's official standard library.
+- **Mention**: Refer to something briefly and without going into detail.
+- **Remotely**: To a slight extent; faintly.
+- **Complete reference**: A comprehensive guide or documentation.
+- **Embark on**: Begin (a course of action).
+- **New program**: A recently created computer program.
+- **Good idea**: A sensible or advisable course of action.
+- **Exist**: Have objective reality or being.
+- **Might help**: Could potentially assist.
+- **Easily**: Without difficulty or effort.
+- **Index**: An alphabetical list of names, subjects, etc., with references to the places where they occur.
+- **Contributed by**: Supplied by someone or something.
+- **Accessible**: Able to be reached or entered.
+- **Command line**: A text-based interface for entering commands into a computer.
+- **ListenAndServe**: A function in Go's `net/http` package that starts an HTTP server listening on a specific address.
+- **Handler**: In web programming, a function that processes an incoming request and generates a response.
+- **Incoming connections**: New connections being established with a server.
+- **Documentation comments**: Comments in source code that are used to generate documentation.
+- **Beginning**: The point in time or space at which something begins.
+- **Good style**: Practices or conventions considered to be effective or aesthetically pleasing in programming.
+- **Declaration**: A formal or explicit statement or announcement.
+- **Specify**: Identify clearly and definitely.
+- **Behavior**: The way in which an animal or person acts in response to a particular situation or stimulus.
+- **Conventions**: A way in which something is usually done.
+- **Locate**: Find (something or someone) precisely.
+- **Display**: Make (something) visible, apparent, or available.
+- **Span multiple lines**: Extend across more than one line of text.
+- **Appear within**: To be present inside.
+- **Expression**: A combination of one or more explicit values, constants, variables, operators, and functions that the programming language interprets and computes to produce another value.
+- **Statement**: A unit of code that performs an action.
+- **Notation**: A system of symbols.
+- **Familiar from**: Known from previous experience with.
+- **Other languages**: Programming languages other than Go.
+- **Block of explanatory text**: A large section of text that provides detailed explanations.
+- **Avoid**: Keep away from or stop oneself from doing (something).
+- **Special meaning**: A particular significance or interpretation.
+- **Nest**: To place one thing inside another.

@@ -1,0 +1,1436 @@
+- **Tour**
+  - **Kanji/Furigana:** ツアー (tsuā)
+  - **Nghĩa Tiếng Việt:** Chuyến tham quan, một chuyến đi hay hành trình khám phá một nơi hoặc một chủ đề.
+- **Components**
+  - **Kanji/Furigana:** コンポーネント (kompōnento) / 構成要素 (こうせいようそ - kōsei yōso)
+  - **Nghĩa Tiếng Việt:** Các thành phần, các bộ phận hoặc yếu tố cơ bản của một cái gì đó.
+  - **Hán tự:** 構 (cấu), 成 (thành), 要 (yếu), 素 (tố).
+- **Get you off the ground**
+  - **Kanji/Furigana:** 軌道に乗せる (きどうにのせる - kidō ni noseru)
+  - **Nghĩa Tiếng Việt:** Giúp bạn bắt đầu một cái gì đó thành công - Đi đúng quỹ đạo.
+- **Useful**
+  - **Kanji/Furigana:** 役に立つ (やくにたつ - yaku ni tatsu)
+  - **Nghĩa Tiếng Việt:** Hữu ích, có thể được sử dụng cho một mục đích thực tế.
+  - **Hán tự:** 役 (dịch).
+- **Diversity**
+  - **Kanji/Furigana:** 多様性 (たようせい - tayōsei)
+  - **Nghĩa Tiếng Việt:** Sự đa dạng.
+  - **Hán tự:** 多 (đa), 様 (dạng), 性 (tính).
+- **Concurrent**
+  - **Kanji/Furigana:** 並行 (へいこう - heikō)
+  - **Nghĩa Tiếng Việt:** Đồng thời, xảy ra hoặc được thực hiện cùng một lúc.
+  - **Hán tự:** 並 (tịnh), 行 (hành).
+- **Compiled language**
+  - **Kanji/Furigana:** コンパイル言語 (コンパイルげんご - konpairu gengo)
+  - **Nghĩa Tiếng Việt:** Ngôn ngữ biên dịch.
+  - **Hán tự:** 言 (ngôn), 語 (ngữ).
+- **Toolchain**
+  - **Kanji/Furigana:** ツールチェーン (tsūrūchēn)
+  - **Nghĩa Tiếng Việt:** Chuỗi công cụ, một bộ công cụ lập trình được sử dụng để thực hiện một tác vụ phát triển phần mềm phức tạp.
+- **Source program**
+  - **Kanji/Furigana:** ソースプログラム (sōsu puroguramu) / 原始プログラム (げんしプログラム - genshi puroguramu)
+  - **Nghĩa Tiếng Việt:** Chương trình nguồn.
+- **Native machine language**
+  - **Kanji/Furigana:** ネイティブ機械語 (ネイティブきかいご - neitibu kikaigo)
+  - **Nghĩa Tiếng Việt:** Ngôn ngữ máy gốc.
+  - **Hán tự:** 機 (cơ), 械 (giới), 語 (ngữ).
+- **Subcommands**
+  - **Kanji/Furigana:** サブコマンド (sabukomando)
+  - **Nghĩa Tiếng Việt:** Lệnh con.
+- **Compiles**
+  - **Kanji/Furigana:** コンパイルする (konpairu suru)
+  - **Nghĩa Tiếng Việt:** Biên dịch.
+- **Libraries**
+  - **Kanji/Furigana:** ライブラリ (raiburari)
+  - **Nghĩa Tiếng Việt:** Thư viện.
+- **Executable file**
+  - **Kanji/Furigana:** 実行可能ファイル (じっこうかのうファイル - jikkō kanō fairu)
+  - **Nghĩa Tiếng Việt:** Tệp thực thi.
+  - **Hán tự:** 実 (thực), 行 (hành), 可 (khả), 能 (năng).
+- **Unicode**
+  - **Kanji/Furigana:** ユニコード (yunikōdo)
+  - **Nghĩa Tiếng Việt:** Chuẩn mã hóa quốc tế cho các ngôn ngữ và chữ viết khác nhau.
+- **Binary file**
+  - **Kanji/Furigana:** バイナリファイル (bainari fairu)
+  - **Nghĩa Tiếng Việt:** Tệp nhị phân.
+- **Repository**
+  - **Kanji/Furigana:** リポジトリ (ripojitori)
+  - **Nghĩa Tiếng Việt:** Kho chứa, một vị trí trung tâm để lưu trữ và quản lý dữ liệu.
+- **Packages**
+  - **Kanji/Furigana:** パッケージ (pakkēji)
+  - **Nghĩa Tiếng Việt:** Gói, trong Go là một cách để tổ chức mã.
+- **Declaration**
+  - **Kanji/Furigana:** 宣言 (せんげん - sengen)
+  - **Nghĩa Tiếng Việt:** Khai báo.
+  - **Hán tự:** 宣 (tuyên), 言 (ngôn).
+- **Imports**
+  - **Kanji/Furigana:** インポートする (inpōto suru)
+  - **Nghĩa Tiếng Việt:** Nhập, đưa vào.
+- **Standard library**
+  - **Kanji/Furigana:** 標準ライブラリ (ひょうじゅんライブラリ - hyōjun raiburari)
+  - **Nghĩa Tiếng Việt:** Thư viện chuẩn.
+  - **Hán tự:** 標 (tiêu), 準 (chuẩn).
+- **Formatted output**
+  - **Kanji/Furigana:** 書式付き出力 (しょしきつきしゅつりょく - shoshiki-tsuki shutsuryoku)
+  - **Nghĩa Tiếng Việt:** Đầu ra đã được định dạng.
+  - **Hán tự:** 書 (thư), 式 (thức), 付 (phó), 出 (xuất), 力 (lực).
+- **Standalone executable program**
+  - **Kanji/Furigana:** スタンドアロン実行可能プログラム (sutandoaron jikkō kanō puroguramu)
+  - **Nghĩa Tiếng Việt:** Chương trình thực thi độc lập.
+  - **Hán tự:** 実 (thực), 行 (hành), 可 (khả), 能 (năng).
+- **Execution**
+  - **Kanji/Furigana:** 実行 (じっこう - jikkō)
+  - **Nghĩa Tiếng Việt:** Sự thực thi.
+  - **Hán tự:** 実 (thực), 行 (hành).
+- **Unnecessary**
+  - **Kanji/Furigana:** 不要 (ふよう - fuyō)
+  - **Nghĩa Tiếng Việt:** Không cần thiết.
+  - **Hán tự:** 不 (bất), 要 (yếu).
+- **Strict requirement**
+  - **Kanji/Furigana:** 厳格な要件 (げんかくなようけん - genkaku na yōken)
+  - **Nghĩa Tiếng Việt:** Yêu cầu nghiêm ngặt.
+  - **Hán tự:** 厳 (nghiêm), 格 (cách), 要 (yếu), 件 (kiện).
+- **Prevents**
+  - **Kanji/Furigana:** 防ぐ (ふせぐ - fusegu)
+  - **Nghĩa Tiếng Việt:** Ngăn chặn, phòng ngừa.
+  - **Hán tự:** 防 (phòng).
+- **Accumulating**
+  - **Kanji/Furigana:** 蓄積する (ちくせきする - chikuseki suru)
+  - **Nghĩa Tiếng Việt:** Tích lũy.
+  - **Hán tự:** 蓄 (súc), 積 (tích).
+- **Evolve**
+  - **Kanji/Furigana:** 進化する (しんかする - shinka suru)
+  - **Nghĩa Tiếng Việt:** Phát triển, tiến hóa.
+  - **Hán tự:** 進 (tiến), 化 (hóa).
+- **Constants**
+  - **Kanji/Furigana:** 定数 (ていすう - teisū)
+  - **Nghĩa Tiếng Việt:** Hằng số.
+  - **Hán tự:** 定 (định), 数 (số).
+- **Parsing**
+  - **Kanji/Furigana:** 解析 (かいせき - kaiseki)
+  - **Nghĩa Tiếng Việt:** Phân tích cú pháp.
+  - **Hán tự:** 解 (giải), 析 (tích).
+- **Stance**
+  - **Kanji/Furigana:** 姿勢 (しせい - shisei)
+  - **Nghĩa Tiếng Việt:** Lập trường, quan điểm, tư thế.
+  - **Hán tự:** 姿 (tư), 勢 (thế).
+- **Code formatting**
+  - **Kanji/Furigana:** コードのフォーマット (kōdo no fōmatto)
+  - **Nghĩa Tiếng Việt:** Định dạng mã.
+- **Pointless debate**
+  - **Kanji/Furigana:** 無意味な議論 (むいみなぎろん - muimi na giron)
+  - **Nghĩa Tiếng Việt:** Tranh luận vô nghĩa.
+  - **Hán tự:** 無 (vô), 意 (ý), 味 (vị), 議 (nghị), 論 (luận).
+- **Infeasible**
+  - **Kanji/Furigana:** 実現不可能 (じつげんふかのう - jitsugen fukanō)
+  - **Nghĩa Tiếng Việt:** Bất khả thi, không thể thực hiện được.
+  - **Hán tự:** 実 (thực), 現 (hiện), 不 (bất), 可 (khả), 能 (năng).
+- **Arbitrary**
+  - **Kanji/Furigana:** 任意 (にんい - nin'i)
+  - **Nghĩa Tiếng Việt:** Tùy ý, tùy tiện.
+  - **Hán tự:** 任 (nhậm), 意 (ý).
+- **Configured**
+  - **Kanji/Furigana:** 設定済み (せっていずみ - setteizumi)
+  - **Nghĩa Tiếng Việt:** Đã được cấu hình.
+  - **Hán tự:** 設 (thiết), 定 (定), 済 (tế).
+- **Command-line arguments**
+  - **Kanji/Furigana:** コマンドライン引数 (コマンドラインひきすう - komandorain hikisū)
+  - **Nghĩa Tiếng Việt:** Đối số dòng lệnh.
+  - **Hán tự:** 引 (dẫn), 数 (số).
+- **Input data**
+  - **Kanji/Furigana:** 入力データ (にゅうりょくデータ - nyūryoku dēta)
+  - **Nghĩa Tiếng Việt:** Dữ liệu đầu vào.
+  - **Hán tự:** 入 (nhập), 力 (lực).
+- **External source**
+  - **Kanji/Furigana:** 外部ソース (がいぶソース - gaibu sōsu)
+  - **Nghĩa Tiếng Việt:** Nguồn bên ngoài.
+  - **Hán tự:** 外 (ngoại), 部 (bộ).
+- **Network connection**
+  - **Kanji/Furigana:** ネットワーク接続 (ネットワークせつぞく - nettowāku setsuzoku)
+  - **Nghĩa Tiếng Việt:** Kết nối mạng.
+  - **Hán tự:** 接 (tiếp), 続 (tục).
+- **Platform-independent**
+  - **Kanji/Furigana:** プラットフォーム非依存 (プラットフォームひいぞん - purattofōmu hiizon)
+  - **Nghĩa Tiếng Việt:** Độc lập nền tảng.
+  - **Hán tự:** 非 (phi), 依 (y), 存 (tồn).
+- **Slice**
+  - **Kanji/Furigana:** スライス (suraisu)
+  - **Nghĩa Tiếng Việt:** Slice (một kiểu dữ liệu cơ bản trong Go).
+- **Fundamental notion**
+  - **Kanji/Furigana:** 基本概念 (きほんがいねん - kihon gainen)
+  - **Nghĩa Tiếng Việt:** Khái niệm cơ bản.
+  - **Hán tự:** 基 (cơ), 本 (bổn), 概 (khái), 念 (niệm).
+- **Dynamically sized**
+  - **Kanji/Furigana:** 動的サイズ (どうてきサイズ - dōteki saizu)
+  - **Nghĩa Tiếng Việt:** Kích thước động.
+  - **Hán tự:** 動 (động), 的 ( đích).
+- **Sequence**
+  - **Kanji/Furigana:** シーケンス (shīkensu) / 順序 (じゅんじょ - junjo)
+  - **Nghĩa Tiếng Việt:** Chuỗi, trình tự.
+  - **Hán tự:** 順 (thuận), 序 (tự).
+- **Array elements**
+  - **Kanji/Furigana:** 配列要素 (はいれつようそ - hairetsu yōso)
+  - **Nghĩa Tiếng Việt:** Phần tử mảng.
+  - **Hán tự:** 配 (phối), 列 (liệt), 要 (yếu), 素 (tố).
+- **Accessed**
+  - **Kanji/Furigana:** アクセスされる (akusesu sareru) / 参照される (さんしょうされる - sanshō sareru)
+  - **Nghĩa Tiếng Việt:** Được truy cập.
+  - **Hán tự:** 参 (tham), 照 (chiếu).
+- **Contiguous subsequence**
+  - **Kanji/Furigana:** 連続した部分シーケンス (れんぞくしたぶぶんシーケンス - renzoku shita bubun shīkensu)
+  - **Nghĩa Tiếng Việt:** Chuỗi con liên tục.
+  - **Hán tự:** 連 (liên), 続 (tục), 部 (bộ), 分 (phân).
+- **Half-open intervals**
+  - **Kanji/Furigana:** 半開区間 (はんかいくかん - hankai kukan)
+  - **Nghĩa Tiếng Việt:** Khoảng nửa mở.
+  - **Hán tự:** 半 (bán), 開 (khai), 区 (khu), 間 (gian).
+- **Indexing**
+  - **Kanji/Furigana:** インデックス付け (インデックスづけ - indekkusu-zuke)
+  - **Nghĩa Tiếng Việt:** Lập chỉ mục, đánh số.
+- **Simplifies logic**
+  - **Kanji/Furigana:** 論理を簡素化する (ろんりをかんそかする - ronri o kansoka suru)
+  - **Nghĩa Tiếng Việt:** Đơn giản hóa logic.
+  - **Hán tự:** 論 (luận), 理 (lý), 簡 (giản), 素 (tố), 化 (hóa).
+- **Abbreviate**
+  - **Kanji/Furigana:** 省略する (しょうりゃくする - shōryaku suru)
+  - **Nghĩa Tiếng Việt:** Viết tắt, rút ngắn.
+  - **Hán tự:** 省 (tỉnh), 略 (lược).
+- **Implementation**
+  - **Kanji/Furigana:** 実装 (じっ実装 - jissō)
+  - **Nghĩa Tiếng Việt:** Triển khai, thực hiện.
+  - **Hán tự:** 実 (thực), 装 (trang).
+- **Parenthesized list**
+  - **Kanji/Furigana:** 括弧付きリスト (かっこつきリスト - kakko-tsuki risuto)
+  - **Nghĩa Tiếng Việt:** Danh sách trong ngoặc đơn.
+  - **Hán tự:** 括 (quát), 弧 ( hồ), 付 (phó).
+- **Legal**
+  - **Kanji/Furigana:** 合法 (ごうほう - gōhō) / 有効 (ゆうこう - yūkō)
+  - **Nghĩa Tiếng Việt:** Hợp lệ, hợp pháp.
+  - **Hán tự:** 合 (hợp), 法 (pháp), 有 (hữu), 効 (hiệu).
+- **Conventionally**
+  - **Kanji/Furigana:** 慣習的に (かんしゅうてきに - kanshūteki ni)
+  - **Nghĩa Tiếng Việt:** Theo quy ước, theo thông lệ.
+  - **Hán tự:** 慣 (quán), 習 (tập), 的 (đích).
+- **Alphabetical order**
+  - **Kanji/Furigana:** アルファベット順 (あるふぁべっとじゅん - arufabetto jun)
+  - **Nghĩa Tiếng Việt:** Theo thứ tự bảng chữ cái.
+  - **Hán tự:** 順 (thuận).
+- **Commentary**
+  - **Kanji/Furigana:** 解説 (かいせつ - kaisetsu)
+  - **Nghĩa Tiếng Việt:** Lời giải thích, chú thích.
+  - **Hán tự:** 解 (giải), 説 (thuyết).
+- **Convention**
+  - **Kanji/Furigana:** 慣習 (かんしゅう - kanshū)
+  - **Nghĩa Tiếng Việt:** Quy ước, tục lệ.
+  - **Hán tự:** 慣 (quán), 習 (tập).
+- **Preceding**
+  - **Kanji/Furigana:** 先行する (せんこうする - senkō suru)
+  - **Nghĩa Tiếng Việt:** Đi trước, đứng trước.
+  - **Hán tự:** 先 (tiên), 行 (hành).
+- **Explicitly**
+  - **Kanji/Furigana:** 明示的に (めいじてきに - meijiteki ni)
+  - **Nghĩa Tiếng Việt:** Một cách rõ ràng, tường minh.
+  - **Hán tự:** 明 (minh), 示 (thị), 的 (đích).
+- **Implicitly**
+  - **Kanji/Furigana:** 暗黙的に (あんもくてきに - anmokuteki ni)
+  - **Nghĩa Tiếng Việt:** Một cách ngầm định.
+  - **Hán tự:** 暗 (ám), 黙 (mặc), 的 (đích).
+- **Zero value**
+  - **Kanji/Furigana:** ゼロ値 (ゼロち - zero chi)
+  - **Nghĩa Tiếng Việt:** Giá trị zero (giá trị mặc định).
+  - **Hán tự:** 値 (trị).
+- **Numeric types**
+  - **Kanji/Furigana:** 数値型 (すうちかた - sūchikata) / 数値タイプ (すうちタイプ - sūchi taipu)
+  - **Nghĩa Tiếng Việt:** Kiểu số.
+  - **Hán tự:** 数 (số), 値 (trị), 型 (hình).
+- **Arithmetic**
+  - **Kanji/Furigana:** 算術 (さんじゅつ - sanjutsu)
+  - **Nghĩa Tiếng Việt:** Số học.
+  - **Hán tự:** 算 (toán), 術 (thuật).
+- **Logical operators**
+  - **Kanji/Furigana:** 論理演算子 (ろんりえんざんし - ronri enzanshi)
+  - **Nghĩa Tiếng Việt:** Toán tử logic.
+  - **Hán tự:** 論 (luận), 理 (lý), 演 (diễn), 算 (toán), 子 (tử).
+- **Concatenates**
+  - **Kanji/Furigana:** 連結する (れんけつする - renketsu suru)
+  - **Nghĩa Tiếng Việt:** Nối (chuỗi).
+  - **Hán tự:** 連 (liên), 結 (kết).
+- **Assignment statement**
+  - **Kanji/Furigana:** 代入文 (だいにゅうぶん - dainyūbun)
+  - **Nghĩa Tiếng Việt:** Câu lệnh gán.
+  - **Hán tự:** 代 (đại), 入 (nhập), 文 (văn).
+- **Equivalent**
+  - **Kanji/Furigana:** 等価 (とうか - tōka)
+  - **Nghĩa Tiếng Việt:** Tương đương.
+  - **Hán tự:** 等 (đẳng), 価 (giá).
+- **Quadratic process**
+  - **Kanji/Furigana:** 二次プロセス (にじプロセス - niji purosesu)
+  - **Nghĩa Tiếng Việt:** Quá trình bậc hai (độ phức tạp O(n^2)).
+  - **Hán tự:** 二 (nhị), 次 (thứ).
+- **Inefficiency**
+  - **Kanji/Furigana:** 非効率 (ひこうりつ - hikōritsu)
+  - **Nghĩa Tiếng Việt:** Sự kém hiệu quả.
+  - **Hán tự:** 非 (phi), 効 (hiệu), 率 (suất).
+- **Short variable declaration**
+  - **Kanji/Furigana:** 短縮変数宣言 (たんしゅくへんすうせんげん - tanshuku hensū sengen)
+  - **Nghĩa Tiếng Việt:** Khai báo biến ngắn gọn.
+  - **Hán tự:** 短 (đoản), 縮 (súc), 変 (biến), 数 (số), 宣 (tuyên), 言 (ngôn).
+- **Initializer**
+  - **Kanji/Furigana:** 初期化子 (しょきかし - shokikashi)
+  - **Nghĩa Tiếng Việt:** Bộ khởi tạo (giá trị ban đầu).
+  - **Hán tự:** 初 (sơ), 期 (kỳ), 化 (hóa), 子 (tử).
+- **Increment**
+  - **Kanji/Furigana:** インクリメント (inkurimento) / 増加 (ぞうか - zōka)
+  - **Nghĩa Tiếng Việt:** Tăng (giá trị).
+  - **Hán tự:** 増 (tăng), 加 (gia).
+- **Decrement**
+  - **Kanji/Furigana:** デクリメント (dekurimento) / 減少 (げんしょう - genshō)
+  - **Nghĩa Tiếng Việt:** Giảm (giá trị).
+  - **Hán tự:** 減 (giảm), 少 (thiểu).
+- **Postfix**
+  - **Kanji/Furigana:** 後置 (こうち - kōchi)
+  - **Nghĩa Tiếng Việt:** Hậu tố (đặt phía sau).
+  - **Hán tự:** 後 (hậu), 置 (trí).
+- **Mandatory**
+  - **Kanji/Furigana:** 必須 (ひっす - hissu)
+  - **Nghĩa Tiếng Việt:** Bắt buộc.
+  - **Hán tự:** 必 (tất), 須 (tu).
+- **Iteration**
+  - **Kanji/Furigana:** 反復 (はんぷく - hanpuku) / イテレーション (iterēshon)
+  - **Nghĩa Tiếng Việt:** Sự lặp lại, lần lặp.
+  - **Hán tự:** 反 (phản), 復 (phục).
+- **Infinite loop**
+  - **Kanji/Furigana:** 無限ループ (むげんループ - mugen rūpu)
+  - **Nghĩa Tiếng Việt:** Vòng lặp vô hạn.
+  - **Hán tự:** 無 (vô), 限 (hạn).
+- **Terminated**
+  - **Kanji/Furigana:** 終了する (しゅうりょうする - shūryō suru)
+  - **Nghĩa Tiếng Việt:** Bị chấm dứt.
+  - **Hán tự:** 終 (chung), 了 (liễu).
+- **Range**
+  - **Kanji/Furigana:** 範囲 (はんい - han'i)
+  - **Nghĩa Tiếng Việt:** Phạm vi.
+  - **Hán tự:** 範 (phạm), 囲 (vi).
+- **Pair**
+  - **Kanji/Furigana:** ペア (pea) / 対 (つい - tsui)
+  - **Nghĩa Tiếng Việt:** Cặp.
+  - **Hán tự:** 対 (đối).
+- **Blank identifier**
+  - **Kanji/Furigana:** ブランク識別子 (ブランクしきべつし - buranku shikibetsushi)
+  - **Nghĩa Tiếng Việt:** Định danh trống (dấu gạch dưới _).
+  - **Hán tự:** 識 (thức), 別 (biệt), 子 (tử).
+- **Underscore**
+  - **Kanji/Furigana:** アンダースコア (andāsukoa) / 下線 (かせん - kasen)
+  - **Nghĩa Tiếng Việt:** Dấu gạch dưới.
+  - **Hán tự:** 下 (hạ), 線 (tuyến).
+- **Discard**
+  - **Kanji/Furigana:** 破棄する (破棄する - hakisu) / 捨てる (すてる - suteru)
+  - **Nghĩa Tiếng Việt:** Loại bỏ, vứt bỏ.
+  - **Hán tự:** 破 (phá), 棄 (khí).
+- **Implicit**
+  - **Kanji/Furigana:** 暗黙的 (あんもくてき - anmokuteki)
+  - **Nghĩa Tiếng Việt:** Ngầm định.
+  - **Hán tự:** 暗 (ám), 黙 (mặc), 的 (đích).
+- **Explicit**
+  - **Kanji/Furigana:** 明示的 (めいじてき - meijiteki)
+  - **Nghĩa Tiếng Việt:** Rõ ràng, tường minh.
+  - **Hán tự:** 明 (minh), 示 (thị), 的 (đích).
+- **Compact**
+  - **Kanji/Furigana:** コンパクト (kompakuto) / 簡潔 (かんけつ - kanketsu)
+  - **Nghĩa Tiếng Việt:** Gọn gàng, súc tích.
+  - **Hán tự:** 簡 (giản), 潔 (kết).
+- **Redundant**
+  - **Kanji/Furigana:** 冗長 (じょうちょう - jōchō)
+  - **Nghĩa Tiếng Việt:** Dư thừa.
+  - **Hán tự:** 冗 (nhũng), 長 (trường).
+- **Garbage-collected**
+  - **Kanji/Furigana:** ガベージコレクションされる (gabējikorekushon sareru)
+  - **Nghĩa Tiếng Việt:** Được thu gom rác (giải phóng bộ nhớ).
+- **Benchmark tests**
+  - **Kanji/Furigana:** ベンチマークテスト (benchimāku tesuto)
+  - **Nghĩa Tiếng Việt:** Bài kiểm tra hiệu năng.
+- **Systematic**
+  - **Kanji/Furigana:** 体系的 (たいけいてき - taikeiteki)
+  - **Nghĩa Tiếng Việt:** Có hệ thống.
+  - **Hán tự:** 体 (thể), 系 (hệ), 的 (đích).
+- **Evaluation**
+  - **Kanji/Furigana:** 評価 (ひょうか - hyōka)
+  - **Nghĩa Tiếng Việt:** Sự đánh giá.
+  - **Hán tự:** 評 (bình), 価 (giá).
+- **Variants**
+  - **Kanji/Furigana:** バリエーション (bariēshon) / 変種 (へんしゅ - henshu)
+  - **Nghĩa Tiếng Việt:** Các biến thể.
+  - **Hán tự:** 変 (biến), 種 (chủng).
+- **Inspired by**
+  - **Kanji/Furigana:** 〜に着想を得た (〜にちゃくそうをえた - 〜 ni chakusō o eta)
+  - **Nghĩa Tiếng Việt:** Được truyền cảm hứng bởi.
+  - **Hán tự:** 着 (trước), 想 (tưởng), 得 (đắc).
+- **Adjacent**
+  - **Kanji/Furigana:** 隣接した (りんせつした - rinsetsu shita)
+  - **Nghĩa Tiếng Việt:** Liền kề, kế cận.
+  - **Hán tự:** 隣 (lân), 接 (tiếp).
+- **On the fly**
+  - **Kanji/Furigana:** その場で (そのばで - sono ba de) / 即座に (そくざに - sokuza ni)
+  - **Nghĩa Tiếng Việt:** Ngay lập tức, trong khi đang chạy.
+  - **Hán tự:** 即 (tức), 座 (tọa).
+- **Constant-time**
+  - **Kanji/Furigana:** 定数時間 (ていすうじかん - teisū jikan)
+  - **Nghĩa Tiếng Việt:** Thời gian hằng số (O(1)).
+  - **Hán tự:** 定 (định), 数 (số), 時 (thời), 間 (gian).
+- **Retrieve**
+  - **Kanji/Furigana:** 取り出す (とりだす - toridasu) / 検索する (けんさくする - kensaku suru)
+  - **Nghĩa Tiếng Việt:** Truy xuất, lấy ra.
+  - **Hán tự:** 取 (thủ), 出 (xuất), 検 (kiểm), 索 (sách).
+- **Intentional**
+  - **Kanji/Furigana:** 意図的 (いとてき - itoteki)
+  - **Nghĩa Tiếng Việt:** Có ý đồ, cố ý.
+  - **Hán tự:** 意 (ý), 図 (đồ), 的 (đích).
+- **Specify**
+  - **Kanji/Furigana:** 指定する (していする - shitei suru)
+  - **Nghĩa Tiếng Việt:** Chỉ định, xác định rõ.
+  - **Hán tự:** 指 (chỉ), 定 (định).
+- **Breaks into**
+  - **Kanji/Furigana:** 分割する (ぶんかつする - bunkatsu suru)
+  - **Nghĩa Tiếng Việt:** Chia nhỏ, phân tách.
+  - **Hán tự:** 分 (phân), 割 (cát).
+- **Scanner**
+  - **Kanji/Furigana:** スキャナ (sukyana)
+  - **Nghĩa Tiếng Việt:** Bộ quét (để đọc đầu vào).
+- **Standard input**
+  - **Kanji/Furigana:** 標準入力 (ひょうじゅんにゅうりょく - hyōjun nyūryoku)
+  - **Nghán Tiếng Việt:** Đầu vào tiêu chuẩn (Stdin).
+  - **Hán tự:** 標 (tiêu), 준 (chuẩn), 入 (nhập), 力 (lực).
+- **Printf (Formatted Print)**
+  - **Kanji/Furigana:** 書式付き印字 (しょしきつきいんじ - shoshiki-tsuki inji)
+  - **Nghĩa Tiếng Việt:** In có định dạng.
+  - **Hán tự:** 書 (thư), 式 (thức), 付 (phó), 印 (ấn), 字 (tự).
+- **Subsequent**
+  - **Kanji/Furigana:** その後の (そのごの - sonogo no) / 後続の (こうぞくの - kōzoku no)
+  - **Nghĩa Tiếng Việt:** Tiếp theo, xảy ra sau đó.
+  - **Hán tự:** 後 (hậu), 続 (tục).
+- **Releases resources**
+  - **Kanji/Furigana:** リソースを解放する (りそーすをかいほうする - risōsu o kaihō suru)
+  - **Nghĩa Tiếng Việt:** Giải phóng tài nguyên.
+  - **Hán tự:** 解 (giải), 放 (phóng).
+- **Simple-minded**
+  - **Kanji/Furigana:** 単純な (たんじゅんな - tanjun na) / 素朴な (そぼくな - soboku na)
+  - **Nghĩa Tiếng Việt:** Đơn giản, không phức tạp (đôi khi mang nghĩa tiêu cực là nông cạn).
+  - **Hán tự:** 単 (đơn), 純 (thuần), 素 (tố), 朴 (phác).
+- **Standard error stream**
+  - **Kanji/Furigana:** 標準エラー出力 (ひょうじゅんえらーしゅつりょく - hyōjun erā shutsuryoku)
+  - **Nghĩa Tiếng Việt:** Luồng lỗi tiêu chuẩn (Stderr).
+  - **Hán tự:** 標 (tiêu), 準 (chuẩn), 出 (xuất), 力 (lực).
+- **Verb**
+  - **Kanji/Furigana:** 指定子 (していし - shiteishi) / 動詞 (どうし - dōshi)
+  - **Nghĩa Tiếng Việt:** Động từ (trong định dạng chuỗi), mã định dạng (ví dụ %v, %d).
+  - **Hán tự:** 指 (chỉ), 定 (định), 子 (tử).
+- **Enclosing loop**
+  - **Kanji/Furigana:** 囲んでいるループ (かこんでいるるーぷ - kakonde iru rūpu) / 外側のループ (そとがわのるーぷ - sotogawa no rūpu)
+  - **Nghĩa Tiếng Việt:** Vòng lặp bao quanh.
+  - **Hán tự:** 囲 (vi), 外 (ngoại), 侧 (trắc).
+- **Cavalier**
+  - **Kanji/Furigana:** 無頓着な (むとんちゃくな - mutonchaku na) / 形式にとらわれない (けいしきにとらわれない - keishiki ni torawarenai)
+  - **Nghĩa Tiếng Việt:** Vô tư, không quá chú trọng vào chi tiết (ở đây là về việc xử lý lỗi).
+  - **Hán tự:** 無 (vô), 頓 (đốn), 着 (trước).
+- **Reference**
+  - **Kanji/Furigana:** 参照 (さんしょう - sanshō)
+  - **Nghĩa Tiếng Việt:** Tham chiếu.
+  - **Hán tự:** 参 (tham), 照 (chiếu).
+- **Underlying data structure**
+  - **Kanji/Furigana:** 基になるデータ構造 (もとになるでーたこうぞう - moto ni naru dēta kōzō)
+  - **Nghĩa Tiếng Việt:** Cấu trúc dữ liệu cơ sở.
+  - **Hán tự:** 基 (cơ), 構 (cấu), 造 (tạo).
+- **Streaming mode**
+  - **Kanji/Furigana:** ストリーミングモード (sutorīmingu mōdo)
+  - **Nghĩa Tiếng Việt:** Chế độ luồng (xử lý dữ liệu đến đâu xử lý đến đó).
+- **Arbitrary amount**
+  - **Kanji/Furigana:** 任意の量 (にんいのりょう - nin'i no ryō)
+  - **Nghĩa Tiếng Việt:** Một lượng tùy ý.
+  - **Hán tự:** 任 (nhậm), 意 (ý), 量 (lượng).
+- **In one big gulp**
+  - **Kanji/Furigana:** 一気に (いっきに - ikki ni) / 丸ごと (まるごと - marugoto)
+  - **Nghĩa Tiếng Việt:** Toàn bộ trong một lần (đọc hết vào bộ nhớ).
+- **Opposite**
+  - **Kanji/Furigana:** 反対 (はんたい - hantai) / 逆 (ぎゃく - gyaku)
+  - **Nghĩa Tiếng Việt:** Ngược lại, đối diện.
+  - **Hán tự:** 反 (phản), 対 (đối).
+- **Simplified**
+  - **Kanji/Furigana:** 簡略化された (かんりゃくかされた - kanryakuka sareta)
+  - **Nghĩa Tiếng Việt:** Được đơn giản hóa.
+  - **Hán tự:** 簡 (giản), 略 (lược), 化 (hóa).
+- **Named files**
+  - **Kanji/Furigana:** 名前付きファイル (なまえつきファイル - namae-tsuki fairu)
+  - **Nghĩa Tiếng Việt:** Các tệp được đặt tên.
+  - **Hán tự:** 名 (danh), 前 (tiền), 付 (phó).
+- **Byte slice**
+  - **Kanji/Furigana:** バイトスライス (baito suraisu)
+  - **Nghĩa Tiếng Việt:** Byte slice (Mảng byte động).
+- **Converted**
+  - **Kanji/Furigana:** 変換された (へんかんされた - henkan sareta)
+  - **Nghĩa Tiếng Việt:** Được chuyển đổi.
+  - **Hán tự:** 変 (biến), 換 (hoán).
+- **Under the covers**
+  - **Kanji/Furigana:** 内部的には (ないぶてきには - naibuteki niwa) / 裏では (うらでは - ura dewa)
+  - **Nghĩa Tiếng Việt:** Về bản chất, bên dưới lớp vỏ (ẩn bên trong).
+  - **Hán tự:** 内 (nội), 部 (bộ), 裏 (lý/mặt sau).
+- **Rare**
+  - **Kanji/Furigana:** 稀な (まれな - mare na)
+  - **Nghĩa Tiếng Việt:** Hiếm khi.
+  - **Hán tự:** 稀 (hi).
+- **Lower-level routines**
+  - **Kanji/Furigana:** 低レベルのルーチン (ていレベルのルーチン - tei reberu no rūchin)
+  - **Nghĩa Tiếng Việt:** Các thủ tục cấp thấp.
+  - **Hán tự:** 低 (đê).
+- **Higher-level functions**
+  - **Kanji/Furigana:** 高レベルの関数 (こうレベルのかんすう - kō reberu no kansū)
+  - **Nghĩa Tiếng Việt:** Các hàm cấp cao.
+  - **Hán tự:** 高 (cao), 関 (quan), 数 (số).
+- **Duplicated**
+  - **Kanji/Furigana:** 重複した (ちょうふくした - chōfuku shita)
+  - **Nghĩa Tiếng Việt:** Bị trùng lặp.
+  - **Hán tự:** 重 (trọng/trùng), 複 (phức).
+- **Occurs**
+  - **Kanji/Furigana:** 発生する (はっせいする - hassei suru) / 生じる (しょうじる - shōjiru)
+  - **Nghĩa Tiếng Việt:** Xảy ra, xuất hiện.
+  - **Hán tự:** 発 (phát), 生 (sinh).
+- **Standard input**
+  - **Kanji/Furigana:** 標準入力 (ひょうじゅんにゅうりょく - hyōjun nyūryoku)
+  - **Nghĩa Tiếng Việt:** Đầu vào tiêu chuẩn.
+  - **Hán tự:** 標 (tiêu), 準 (chuẩn), 入 (nhập), 力 (lực).
+- **Newline character**
+  - **Kanji/Furigana:** 改行文字 (かいぎょうもじ - kaigyō moji)
+  - **Nghĩa Tiếng Việt:** Ký tự xuống dòng.
+  - **Hán tự:** 改 (cải), 行 (hành), 文 (văn), 字 (tự).
+- **Retrieve**
+  - **Kanji/Furigana:** 取得する (しゅとくする - shutoku suru)
+  - **Nghĩa Tiếng Việt:** Truy xuất, lấy lại.
+  - **Hán tự:** 取 (thủ), 得 (đắc).
+- **Formatted output**
+  - **Kanji/Furigana:** 書式付き出力 (しょしきつきしゅつりょく - shoshiki-tsuki shutsuryoku)
+  - **Nghĩa Tiếng Việt:** Đầu ra có định dạng.
+  - **Hán tự:** 書 (thư), 式 (thức), 付 (phó), 出 (xuất), 力 (lực).
+- **Format string**
+  - **Kanji/Furigana:** 書式文字列 (しょしきもじれつ - shoshiki mojiretsu)
+  - **Nghĩa Tiếng Việt:** Chuỗi định dạng.
+  - **Hán tự:** 書 (thư), 式 (thức), 文 (văn), 字 (tự), 列 (liệt).
+- **Subsequent arguments**
+  - **Kanji/Furigana:** 後続の引数 (こうぞくのひきすう - kōzoku no hikisū)
+  - **Nghĩa Tiếng Việt:** Các đối số tiếp theo.
+  - **Hán tự:** 後 (hậu), 続 (tục), 引 (dẫn), 数 (số).
+- **Conversion character**
+  - **Kanji/Furigana:** 変換文字 (へんかんもじ - henkan moji)
+  - **Nghĩa Tiếng Việt:** Ký tự chuyển đổi.
+  - **Hán tự:** 変 (biến), 換 (hoán), 文 (văn), 字 (tự).
+- **Decimal notation**
+  - **Kanji/Furigana:** 10進法表記 (じっしんほうひょうき - jisshinhō hyōki)
+  - **Nghĩa Tiếng Việt:** Ký hiệu thập phân.
+  - **Hán tự:** 進 (tiến), 法 (pháp), 表 (biểu), 記 (ký).
+- **Specification**
+  - **Kanji/Furigana:** 仕様 (しよう - shiyō)
+  - **Nghĩa Tiếng Việt:** Đặc tả, thông số kỹ thuật.
+  - **Hán tự:** 仕 (sĩ), 様 (dạng).
+- **Illustrates**
+  - **Kanji/Furigana:** 例証する (れいしょうする - reishō suru) / 示す (しめす - shimesu)
+  - **Nghĩa Tiếng Việt:** Minh họa.
+  - **Hán tự:** 例 (lệ), 証 (chứng), 示 (thị).
+- **String literals**
+  - **Kanji/Furigana:** 文字列リテラル (もじれつリテラル - mojiretsu riteraru)
+  - **Nghĩa Tiếng Việt:** Chuỗi ký tự.
+  - **Hán tự:** 文 (văn), 字 (tự), 列 (liệt).
+- **Escape sequences**
+  - **Kanji/Furigana:** エスケープシーケンス (esukēpu shīkensu)
+  - **Nghĩa Tiếng Việt:** Chuỗi thoát.
+- **Invisible characters**
+  - **Kanji/Furigana:** 不可視文字 (ふかしもじ - fukashi moji)
+  - **Nghĩa Tiếng Việt:** Ký tự vô hình.
+  - **Hán tự:** 不 (bất), 可 (khả), 視 (thị), 文 (văn), 字 (tự).
+- **Convention**
+  - **Kanji/Furigana:** 慣習 (かんしゅう - kanshū)
+  - **Nghĩa Tiếng Việt:** Quy ước.
+  - **Hán tự:** 慣 (quán), 習 (tập).
+- **Sequence**
+  - **Kanji/Furigana:** シーケンス (shīkensu) / 順序 (じゅんじょ - junjo)
+  - **Nghĩa Tiếng Việt:** Chuỗi, trình tự.
+  - **Hán tự:** 順 (thuận), 序 (tự).
+- **Handle**
+  - **Kanji/Furigana:** 扱う (あつかう - atsukau)
+  - **Nghĩa Tiếng Việt:** Xử lý.
+  - **Hán tự:** 扱 (tráp).- **Demonstrates**
+  - **Kanji/Furigana:** 実証する (じっしょうする - jisshō suru) / 示す (しめす - shimesu)
+  - **Nghĩa Tiếng Việt:** Minh họa, chứng minh.
+  - **Hán tự:** 実 (thực), 証 (chứng), 示 (thị).
+- **Encode**
+  - **Kanji/Furigana:** エンコードする (enkōdo suru) / 符号化する (ふごうかする - fugōka suru)
+  - **Nghĩa Tiếng Việt:** Mã hóa.
+  - **Hán tự:** 符 (phù), 号 (hiệu), 化 (hóa).
+- **Staple**
+  - **Kanji/Furigana:** 定番 (ていばん - teiban)
+  - **Nghĩa Tiếng Việt:** Món chính, yếu tố chủ đạo, thứ phổ biến.
+  - **Hán tự:** 定 (định), 番 (phiên).
+- **Visual effect**
+  - **Kanji/Furigana:** 視覚効果 (しかくこうか - shikaku kōka)
+  - **Nghĩa Tiếng Việt:** Hiệu ứng hình ảnh/thị giác.
+  - **Hán tự:** 視 (thị), 覚 (giác), 効 (hiệu), 果 (quả).
+- **Sci-fi (Science Fiction)**
+  - **Kanji/Furigana:** SF (エスエフ - esuefu) / 空想科学 (くうそうかがく - kūsō kagaku)
+  - **Nghĩa Tiếng Việt:** Khoa học viễn tưởng.
+  - **Hán tự:** 空 (không), 想 (tưởng), 科 (khoa), 学 (học).
+- **Harmonic oscillation**
+  - **Kanji/Furigana:** 調和振動 (ちょうわしんどう - chōwa shindō)
+  - **Nghĩa Tiếng Việt:** Dao động điều hòa.
+  - **Hán tự:** 調 (điều), 和 (hòa), 振 (chấn), 動 (động).
+- **Oscilloscope**
+  - **Kanji/Furigana:** オシロスコープ (oshirosukōpu)
+  - **Nghĩa Tiếng Việt:** Máy hiện sóng.
+- **Constructs**
+  - **Kanji/Furigana:** 構成要素 (こうせいようそ - kōsei yōso) / 構造 (こうぞう - kōzō)
+  - **Nghĩa Tiếng Việt:** Các cấu trúc (trong lập trình).
+  - **Hán tự:** 構 (cấu), 成 (thành), 造 (tạo).
+- **Floating-point**
+  - **Kanji/Furigana:** 浮動小数点 (ふどうしょうすうてん - fudō shōsūten)
+  - **Nghĩa Tiếng Việt:** Dấu phẩy động.
+  - **Hán tự:** 浮 (phù), 動 (động), 小 (tiểu), 数 (số), 点 (điểm).
+- **Resolution**
+  - **Kanji/Furigana:** 解像度 (かいぞうど - kaizōdo)
+  - **Nghĩa Tiếng Việt:** Độ phân giải.
+  - **Hán tự:** 解 (giải), 像 (tượng), 度 (độ).
+- **Canvas**
+  - **Kanji/Furigana:** キャンバス (kyanbasu)
+  - **Nghĩa Tiếng Việt:** Vùng vẽ, khung hình.
+- **Frequency**
+  - **Kanji/Furigana:** 周波数 (しゅうはすう - shūhasū) / 頻度 (ひんど - hindo)
+  - **Nghĩa Tiếng Việt:** Tần số.
+  - **Hán tự:** 周 (chu), 波 (ba), 数 (số).
+- **Phase**
+  - **Kanji/Furigana:** 位相 (いそう - isō)
+  - **Nghĩa Tiếng Việt:** Pha (trong dao động).
+  - **Hán tự:** 位 (vị), 相 (tướng).
+- **Components**
+  - **Kanji/Furigana:** コンポーネント (kompōnento) / 成分 (せいぶん - seibun)
+  - **Nghĩa Tiếng Việt:** Thành phần.
+  - **Hán tự:** 成 (thành), 分 (phần).
+- **Instantiating**
+  - **Kanji/Furigana:** インスタンス化 (インスタンスか - insutansu-ka)
+  - **Nghĩa Tiếng Việt:** Khởi tạo (một thể hiện).
+- **Notation**
+  - **Kanji/Furigana:** 表記法 (ひょうきほう - hyōkihō)
+  - **Nghĩa Tiếng Việt:** Ký hiệu, cách viết.
+  - **Hán tự:** 表 (biểu), 記 (ký), 法 (pháp).
+- **Struct**
+  - **Kanji/Furigana:** 構造体 (こうぞうたい - kōzōtai)
+  - **Nghĩa Tiếng Việt:** Cấu trúc.
+  - **Hán tự:** 構 (cấu), 造 (tạo), 体 (thể).
+- **Field**
+  - **Kanji/Furigana:** フィールド (fīrudo) / メンバー (menbā)
+  - **Nghĩa Tiếng Việt:** Trường, thành phần.
+- **Unit**
+  - **Kanji/Furigana:** 単位 (たんい - tan'i) / ユニット (yunitto)
+  - **Nghĩa Tiếng Việt:** Đơn vị.
+  - **Hán tự:** 単 (đơn), 位 (vị).
+- **Literal**
+  - **Kanji/Furigana:** リテラル (riteraru)
+  - **Nghĩa Tiếng Việt:** Giá trị trực tiếp.
+- **Dot notation**
+  - **Kanji/Furigana:** ドット記法 (どっときほう - dotto kihō)
+  - **Nghĩa Tiếng Việt:** Ký hiệu dấu chấm.
+  - **Hán tự:** 記 (ký), 法 (pháp).
+- **Assignment**
+  - **Kanji/Furigana:** 代入 (だいにゅう - dainyū)
+  - **Nghĩa Tiếng Việt:** Phép gán.
+  - **Hán tự:** 代 (đại), 入 (nhập).
+- **Nested loop**
+  - **Kanji/Furigana:** 入れ子ループ (いれこループ - ireko rūpu)
+  - **Nghĩa Tiếng Việt:** Vòng lặp lồng nhau.
+  - **Hán tự:** 入 (nhập), 子 (tử).
+- **Iteration**
+  - **Kanji/Furigana:** 反復 (はんぷく - hanpuku) / イテレーション (iterēshon)
+  - **Nghĩa Tiếng Việt:** Lần lặp, sự lặp lại.
+  - **Hán tự:** 反 (phản), 復 (phục).
+- **Palette**
+  - **Kanji/Furigana:** パレット (paretto) / 色見本 (いろみほん - iromihon)
+  - **Nghĩa Tiếng Việt:** Bảng màu.
+  - **Hán tự:** 色 (sắc), 見 (kiến), 本 (bổn).
+- **Pixel**
+  - **Kanji/Furigana:** 画素 (がそ - gaso) / ピクセル (pikuseru)
+  - **Nghĩa Tiếng Việt:** Điểm ảnh.
+  - **Hán tự:** 画 (họa), 素 (tố).
+- **Append**
+  - **Kanji/Furigana:** 追加 (ついか - tsuika) / 追記 (つい記 - tsuiki)
+  - **Nghĩa Tiếng Việt:** Nối thêm.
+  - **Hán tự:** 追 (truy), 加 (gia).
+- **Encoded**
+  - **Kanji/Furigana:** エンコードされた (enkōdo sareta) / 符号化された (ふごうかされた - fugōka sareta)
+  - **Nghĩa Tiếng Việt:** Được mã hóa.
+  - **Hán tự:** 符 (phù), 号 (hiệu), 化 (hóa).
+- **Oscillator**
+  - **Kanji/Furigana:** オシレーター (oshiētā) / 発振器 (はっしんき - hasshinki)
+  - **Nghĩa Tiếng Việt:** Bộ dao động.
+  - **Hán tự:** 発 (phát), 振 (chấn), 器 (khí).
+- **Sinusoid**
+  - **Kanji/Furigana:** 正弦波 (せいげんは - seigenha)
+  - **Nghĩa Tiếng Việt:** Hình sin.
+  - **Hán tự:** 正 (chính), 弦 (huyền), 波 (ba).
+- **Frequency**
+  - **Kanji/Furigana:** 周波数 (しゅうはすう - shūhasū) / 頻度 (ひんど - hindo)
+  - **Nghĩa Tiếng Việt:** Tần số.
+  - **Hán tự:** 周 (chu), 波 (ba), 数 (số).
+- **Phase**
+  - **Kanji/Furigana:** 位相 (いそう - isō)
+  - **Nghĩa Tiếng Việt:** Pha.
+  - **Hán tự:** 位 (vị), 相 (tướng).
+- **Hexadecimal**
+  - **Kanji/Furigana:** 16進数 (じゅうろくしんすう - jūrokushinsū)
+  - **Nghĩa Tiếng Việt:** Hệ thập lục phân.
+  - **Hán tự:** 進 (tiến), 数 (số).
+- **Intensity**
+  - **Kanji/Furigana:** 強度 (きょうど - kyōdo) / 強さ (つよさ - tsuyosa)
+  - **Nghĩa Tiếng Việt:** Cường độ.
+  - **Hán tự:** 強 (cường), 度 (độ).
+- **Fetching**
+  - **Kanji/Furigana:** フェッチング (fecchingu) / 取得 (しゅとく - shutoku)
+  - **Nghĩa Tiếng Việt:** Lấy về, truy xuất dữ liệu.
+  - **Hán tự:** 取 (thủ), 得 (đắc).
+- **Local file system**
+  - **Kanji/Furigana:** ローカルファイルシステム (rōkaru fairu shisutemu)
+  - **Nghĩa Tiếng Việt:** Hệ thống tệp cục bộ.
+- **Grouped under**
+  - **Kanji/Furigana:** 〜に分類される (〜にぶんるいされる - 〜 ni bunrui sareru)
+  - **Nghĩa Tiếng Việt:** Được nhóm dưới, được phân loại vào.
+  - **Hán tự:** 分 (phân), 類 (loại).
+- **Low-level network connections**
+  - **Kanji/Furigana:** 低レベルネットワーク接続 (ていレベルネットワークせつぞく - tei reberu nettowāku setsuzoku)
+  - **Nghĩa Tiếng Việt:** Các kết nối mạng cấp thấp.
+  - **Hán tự:** 低 (đê), 接 (tiếp), 続 (tục).
+- **Concurrency features**
+  - **Kanji/Furigana:** 並行性機能 (へいこうせいきのう - heikōsei kinō)
+  - **Nghĩa Tiếng Việt:** Các tính năng xử lý đồng thời.
+  - **Hán tự:** 並 (tịnh), 行 (hành), 性 (tính), 機 (cơ), 能 (năng).
+- **Particularly**
+  - **Kanji/Furigana:** 特に (とくに - tokuni)
+  - **Nghĩa Tiếng Việt:** Đặc biệt là.
+  - **Hán tự:** 特 (đặc).
+- **Minimum necessary**
+  - **Kanji/Furigana:** 必要最低限 (ひつようさいていげん - hitsuyō saiteigen)
+  - **Nghĩa Tiếng Việt:** Tối thiểu cần thiết.
+  - **Hán tự:** 必 (tất), 要 (yếu), 最 (tối), 低 (đê), 限 (hạn).
+- **Retrieve**
+  - **Kanji/Furigana:** 取得する (しゅとくする - shutoku suru)
+  - **Nghĩa Tiếng Việt:** Lấy về, truy xuất.
+  - **Hán tự:** 取 (thủ), 得 (đắc).
+- **Uninterpreted text**
+  - **Kanji/Furigana:** 解釈されないテキスト (かいしゃくされないテキスト - kaishaku sarenai tekisuto) / 生のテキスト (なまのテキスト - nama no tekisuto)
+  - **Nghĩa Tiếng Việt:** Văn bản thô, văn bản chưa được giải thích/xử lý.
+  - **Hán tự:** 解 (giải), 釈 (thích).
+- **Invaluable**
+  - **Kanji/Furigana:** 非常に貴重な (ひじょうにきちょうな - hijō ni kichō na)
+  - **Nghĩa Tiếng Việt:** Cực kỳ vô giá, cực kỳ hữu dụng.
+  - **Hán tự:** 非 (phi), 常 (thường), 貴 (quý), 重 (trọng).
+- **Utility**
+  - **Kanji/Furigana:** ユーティリティ (yūtiriti) / ユーティリティプログラム (yūtiriti puroguramu)
+  - **Nghĩa Tiếng Việt:** Tiện ích, chương trình tiện ích.
+- **Inspired by**
+  - **Kanji/Furigana:** 〜に着想を得た (〜にちゃくそうをえた - 〜 ni chakusō o eta)
+  - **Nghĩa Tiếng Việt:** Được truyền cảm hứng bởi.
+  - **Hán tự:** 着 (trước), 想 (tưởng), 得 (đắc).
+- **Obviously**
+  - **Kanji/Furigana:** 明らかに (あきらかに - akiraka ni)
+  - **Nghĩa Tiếng Việt:** Rõ ràng là.
+  - **Hán tự:** 明 (minh).
+- **Frequently**
+  - **Kanji/Furigana:** 頻繁に (ひんぱんに - hinpan ni)
+  - **Nghĩa Tiếng Việt:** Thường xuyên.
+  - **Hán tự:** 頻 (tần), 繁 (phồn).
+- **HTTP request**
+  - **Kanji/Furigana:** HTTPリクエスト (HTTPりくえすと) / HTTP要求 (HTTPようきゅう - HTTP yōkyū)
+  - **Nghĩa Tiếng Việt:** Yêu cầu HTTP.
+  - **Hán tự:** 要 (yếu), 求 (cầu).
+- **Readable stream**
+  - **Kanji/Furigana:** 読み取り可能なストリーム (よみとりかのうなストリーム - yomitori kanō na sutorīmu)
+  - **Nghĩa Tiếng Việt:** Luồng có thể đọc được.
+  - **Hán tự:** 読 (độc), 取 (thủ), 可 (khả), 能 (năng).
+- **Leaking resources**
+  - **Kanji/Furigana:** リソースのリーク (risōsu no rīku)
+  - **Nghĩa Tiếng Việt:** Rò rỉ tài nguyên.
+- **Status code**
+  - **Kanji/Furigana:** ステータスコード (sutētasu kōdo) / 状態コード (じょうたいコード - jōtai kōdo)
+  - **Nghĩa Tiếng Việt:** Mã trạng thái.
+  - **Hán tự:** 状 (trạng), 態 (thái).
+- **Buffer**
+  - **Kanji/Furigana:** バッファ (baffa)
+  - **Nghĩa Tiếng Việt:** Bộ đệm.
+- **Prefix**
+  - **Kanji/Furigana:** 接頭辞 (せっとうじ - settōji) / プレフィックス (purefikkusu)
+  - **Nghĩa Tiếng Việt:** Tiền tố.
+  - **Hán tự:** 接 (tiếp), 頭 (đầu), 辞 (từ).
+- **Concurrently**
+  - **Kanji/Furigana:** 同時に (どうじに - dōji ni) / 並行して (へいこうして - heikō shite)
+  - **Nghĩa Tiếng Việt:** Đồng thời.
+  - **Hán tự:** 同 (đồng), 時 (thời), 並 (tịnh), 行 (hành).
+- **Novel**
+  - **Kanji/Furigana:** 斬新な (ざんしんな - zanshin na) / 新しい (あたらしい - atarashii)
+  - **Nghĩa Tiếng Việt:** Mới lạ, độc đáo.
+  - **Hán tự:** 斬 (trảm), 新 (tân).
+- **Goroutines**
+  - **Kanji/Furigana:** ゴルーチン (gorūchin)
+  - **Nghĩa Tiếng Việt:** Goroutines (tiến trình nhẹ trong Go).
+- **Channels**
+  - **Kanji/Furigana:** チャネル (chaneru)
+  - **Nghĩa Tiếng Việt:** Channels (cơ chế giao tiếp giữa các goroutines).
+- **Elapsed time**
+  - **Kanji/Furigana:** 経過時間 (けいかじかん - keika jikan)
+  - **Nghĩa Tiếng Việt:** Thời gian đã trôi qua.
+  - **Hán tự:** 経 (kinh), 過 (quá), 時 (thời), 間 (gian).
+- **Discards**
+  - **Kanji/Furigana:** 破棄する (はきする - hakisu)
+  - **Nghĩa Tiếng Việt:** Loại bỏ, hủy bỏ.
+  - **Hán tự:** 破 (phá), 棄 (khí).
+- **Asynchronously**
+  - **Kanji/Furigana:** 非同期に (ひどうきに - hidōki ni)
+  - **Nghĩa Tiếng Việt:** Bất đồng bộ.
+  - **Hán tự:** 非 (phi), 同 (đồng), 期 (kỳ).
+- **Blocks**
+  - **Kanji/Furigana:** ブロックする (burokku suru)
+  - **Nghĩa Tiếng Việt:** Bị chặn, làm nghẽn.
+- **Interleaving**
+  - **Kanji/Furigana:** 混ざり合う (まざりあう - mazariau) / インターリーブ (intārību)
+  - **Nghĩa Tiếng Việt:** Xen kẽ, trộn lẫn.
+  - **Hán tự:** 混 (hỗn).
+- **Succession**
+  - **Kanji/Furigana:** 連続 (れんぞく - renzoku)
+  - **Nghĩa Tiếng Việt:** Liên tiếp, sự kế tiếp.
+  - **Hán tự:** 連 (liên), 続 (tục).
+- **Caching**
+  - **Kanji/Furigana:** キャッシュ (kyasshu) / キャッシュ処理 (kyasshu shori)
+  - **Nghĩa Tiếng Việt:** Lưu bộ nhớ đệm.
+- **Coping**
+  - **Kanji/Furigana:** 対処する (たいしょする - taisho suru)
+  - **Nghĩa Tiếng Việt:** Đối phó, xử lý.
+  - **Hán tự:** 対 (đối), 処 (xử).
+- **Web server**
+  - **Kanji/Furigana:** Webサーバー (Webさーばー - webu sābā)
+  - **Nghĩa Tiếng Việt:** Máy chủ Web.
+- **Minimal**
+  - **Kanji/Furigana:** 最小限の (さいしょうげんの - saishōgen no)
+  - **Nghĩa Tiếng Việt:** Tối thiểu.
+  - **Hán tự:** 最 (tối), 小 (tiểu), 限 (hạn).
+- **Path component**
+  - **Kanji/Furigana:** パスコンポーネント (pasu kompōnento) / パス部分 (ぱすぶぶん - pasu bubun)
+  - **Nghĩa Tiếng Việt:** Thành phần đường dẫn (trong URL).
+  - **Hán tự:** 部 (bộ), 分 (phần).
+- **Listening**
+  - **Kanji/Furigana:** リッスンする (rissun suru) / 待機する (たいきする - taiki suru)
+  - **Nghĩa Tiếng Việt:** Lắng nghe (kết nối mạng).
+  - **Hán tự:** 待 (đãi), 機 (cơ).
+- **Port**
+  - **Kanji/Furigana:** ポート (pōto)
+  - **Nghĩa Tiếng Việt:** Cổng (giao tiếp mạng).
+- **Extracts**
+  - **Kanji/Furigana:** 抽出する (ちゅうしゅつする - chūshutsu suru) / 取り出す (とりだす - toridasu)
+  - **Nghĩa Tiếng Việt:** Trích xuất, lấy ra.
+  - **Hán tự:** 抽 (trừu), 出 (xuất).
+- **Background**
+  - **Kanji/Furigana:** バックグラウンド (bakkuguraundo) / 背景 (はいけい - haikei)
+  - **Nghĩa Tiếng Việt:** Chế độ nền.
+  - **Hán tự:** 背 (bối), 景 (cảnh).
+- **Ampersand**
+  - **Kanji/Furigana:** アンパサンド (anpasando) / &記号 (あんぱさんどきごう)
+  - **Nghĩa Tiếng Việt:** Dấu và (&).
+- **Counter**
+  - **Kanji/Furigana:** カウンター (kauntā) / 計数器 (けいすうき - keisūki)
+  - **Nghĩa Tiếng Việt:** Bộ đếm.
+  - **Hán tự:** 計 (kế), 数 (số), 器 (khí).
+- **Invoke**
+  - **Kanji/Furigana:** 呼び出す (よびだす - yobidasu) / 起動する (きどうする - kidō suru)
+  - **Nghĩa Tiếng Việt:** Gọi (hàm), kích hoạt.
+  - **Hán tự:** 呼 (hô), 出 (xuất), 起 (khởi), 動 (động).
+- **Pattern**
+  - **Kanji/Furigana:** パターン (patān) / 形式 (けいしき - keishiki)
+  - **Nghĩa Tiếng Việt:** Mẫu, khuôn mẫu.
+  - **Hán tự:** 形 (hình), 式 (thức).
+- **Prefix**
+  - **Kanji/Furigana:** 接頭辞 (せっとうじ - settōji) / プレフィックス (purefikkusu)
+  - **Nghĩa Tiếng Việt:** Tiền tố.
+  - **Hán tự:** 接 (tiếp), 頭 (đầu), 辞 (từ).
+- **Behind the scenes**
+  - **Kanji/Furigana:** 舞台裏で (ぶたいうらで - butaiura de) / 水面下で (すいめんかで - suimenka de)
+  - **Nghĩa Tiếng Việt:** Đằng sau hậu trường.
+  - **Hán tự:** 舞 (vũ), 台 (đài), 裏 (lý).
+- **Simultaneously**
+  - **Kanji/Furigana:** 同時に (どうじに - dōji ni)
+  - **Nghĩa Tiếng Việt:** Đồng thời.
+  - **Hán tự:** 同 (đồng), 時 (thời).
+- **Consistently**
+  - **Kanji/Furigana:** 一貫して (いっかんして - ikkan shite)
+  - **Nghĩa Tiếng Việt:** Nhất quán.
+  - **Hán tự:** 一 (nhất), 貫 (quán).
+- **Race condition**
+  - **Kanji/Furigana:** 競合状態 (きょうごうじょうたい - kyōgō jōtai) / レースコンディション (rēsu kondishon)
+  - **Nghĩa Tiếng Việt:** Điều kiện cạnh tranh, tranh chấp dữ liệu.
+  - **Hán tự:** 競 (cạnh), 合 (hợp), 状 (trạng), 態 (thái).
+- **Ensure**
+  - **Kanji/Furigana:** 保証する (ほしょうする - hoshō suru) / 確実にする (かくじつにする - kakujitsu ni suru)
+  - **Nghĩa Tiếng Việt:** Đảm bảo.
+  - **Hán tự:** 保 (bảo), 証 (chứng), 確 (xác), 実 (thực).
+- **Bracket**
+  - **Kanji/Furigana:** 囲む (かこむ - kakomu)
+  - **Nghĩa Tiếng Việt:** Bao quanh, đóng khung.
+  - **Hán tự:** 囲 (vi).
+- **Shared variables**
+  - **Kanji/Furigana:** 共有変数 (きょうゆうへんすう - kyōyū hensū)
+  - **Nghĩa Tiếng Việt:** Các biến dùng chung.
+  - **Hán tự:** 共 (cộng), 有 (hữu), 変 (biến), 数 (số).
+
+- **Inspect**
+    - Kanji: 検査
+    - Furigana: けんさ
+    - Nghĩa Tiếng Việt: Kiểm tra, xem xét kỹ.
+    - Giải thích Hán tự: 
+        - 検 (Kiểm): Kiểm tra, xét.
+        - 査 (Tra): Tra cứu, xem xét.
+- **Header**
+    - Katakana: ヘッダー
+    - Nghĩa Tiếng Việt: Tiêu đề (trong HTTP, chứa metadata).
+- **Nest**
+    - Kanji: 入れ子にする
+    - Furigana: いれこにする
+    - Nghĩa Tiếng Việt: Lồng nhau (đặt cái này trong cái kia).
+    - Giải thích Hán tự:
+        - 入 (Nhập): Cho vào.
+        - 子 (Tử): Con (trong cấu trúc con).
+- **Precede**
+    - Kanji: 先立つ
+    - Furigana: さきだつ
+    - Nghĩa Tiếng Việt: Đứng trước, xảy ra trước.
+    - Giải thích Hán tự:
+        - 先 (Tiên): Trước.
+- **Scope**
+    - Katakana: スコープ (hoặc 範囲 - はんい)
+    - Nghĩa Tiếng Việt: Phạm vi (của biến).
+    - Giải thích Hán tự (範囲):
+        - 範 (Phạm): Quy tắc, khuôn mẫu.
+        - 囲 (Vi): Bao quanh.
+- **Satisfy**
+    - Kanji: 満たす
+    - Furigana: みたす
+    - Nghĩa Tiếng Việt: Thỏa mãn (một interface), đáp ứng đủ điều kiện.
+    - Giải thích Hán tự:
+        - 満 (Mãn): Đầy, thỏa mãn.
+- **Interface**
+    - Katakana: インターフェース
+    - Nghĩa Tiếng Việt: Giao diện (trong lập trình).
+- **Function literal**
+    - Kanji: 関数リテラル
+    - Furigana: かんすうりてらる
+    - Nghĩa Tiếng Việt: Hàm hằng, hàm ẩn danh định nghĩa trực tiếp.
+    - Giải thích Hán tự:
+        - 関 (Quan): Liên quan.
+        - 数 (Số): Số liệu.
+- **Anonymous function**
+    - Kanji: 無名関数
+    - Furigana: むめいかんすう
+    - Nghĩa Tiếng Việt: Hàm ẩn danh.
+    - Giải thích Hán tự:
+        - 無 (Vô): Không.
+        - 名 (Danh): Tên.
+
+### 1.8. Loose Ends
+
+- **Loose Ends**
+  - **Kanji/Furigana:** 未処理の事項 (みしょりのじこう - mishori no jikō) / 残件 (ざんけん - zanken)
+  - **Nghĩa Tiếng Việt:** Các vấn đề còn sót lại, những chi tiết nhỏ chưa được giải quyết.
+  - **Hán tự:** 未 (vị), 処 (xử), 理 (lý), 事 (sự), 項 (hạng), 残 (tàn), 件 (kiện).
+- **Introduced**
+  - **Kanji/Furigana:** 導入された (どうにゅうされた - dōnyū sareta)
+  - **Nghĩa Tiếng Việt:** Được giới thiệu.
+  - **Hán tự:** 導 (đạo), 入 (nhập).
+- **Covered**
+  - **Kanji/Furigana:** 扱われた (あつかわれた - atsukawareta) / 説明された (せつめいされた - setsumei sareta)
+  - **Nghĩa Tiếng Việt:** Được đề cập, được bao phủ.
+  - **Hán tự:** 扱 (tráp), 説 (thuyết), 明 (minh).
+- **Barely touched upon**
+  - **Kanji/Furigana:** ほとんど触れられていない (ほとんどふれられていない - hotondo furerarete inai)
+  - **Nghĩa Tiếng Việt:** Chỉ được đề cập sơ qua, hầu như không chạm tới.
+  - **Hán tự:** 触 (xúc).
+- **Omitted entirely**
+  - **Kanji/Furigana:** 完全に省略された (かんぜんにしょうりゃくされた - kanzen ni shōryaku sareta)
+  - **Nghĩa Tiếng Việt:** Bị bỏ qua hoàn toàn.
+  - **Hán tự:** 完 (hoàn), 全 (toàn), 省 (tỉnh), 略 (lược).
+- **Familiar**
+  - **Kanji/Furigana:** おなじみの (onajimi no) / 慣れ親しんだ (なれしたしんだ - nareshitashinda)
+  - **Nghĩa Tiếng Việt:** Quen thuộc.
+  - **Hán tự:** 慣 (quán), 親 (thân).
+- **Brief appearances**
+  - **Kanji/Furigana:** 短い登場 (みじかいとうじょう - mijikai tōjō) / 短時間の出現 (たんじかんのしゅつげん - tanjikan no shutsugen)
+  - **Nghĩa Tiếng Việt:** Xuất hiện ngắn ngủi.
+  - **Hán tự:** 短 (đoản), 時 (thời), 間 (gian), 出 (xuất), 現 (hiện).
+- **Full treatment**
+  - **Kanji/Furigana:** 完全な扱い (かんぜんなあつかい - kanzen na atsukai) / 全面的な説明 (ぜんめんてきなせつめい - zenmenteki na setsumei)
+  - **Nghĩa Tiếng Việt:** Xử lý/Giải thích đầy đủ.
+  - **Hán tự:** 完 (hoàn), 全 (toàn), 扱 (tráp), 面 (diện), 的 (đích), 説 (thuyết), 明 (minh).
+- **Control flow**
+  - **Kanji/Furigana:** 制御フロー (せいぎょフロー - seigyo furō)
+  - **Nghĩa Tiếng Việt:** Luồng điều khiển.
+  - **Hán tự:** 制 (chế), 御 (ngự).
+- **Fundamental**
+  - **Kanji/Furigana:** 根本的な (こんぽんてきな - konponteki na) / 基本的 (きほんてき - kihonteki)
+  - **Nghĩa Tiếng Việt:** Cơ bản, nền tảng.
+  - **Hán tự:** 根 (căn), 本 (bổn), 的 (đích).
+- **Control-flow statements**
+  - **Kanji/Furigana:** 制御フロー文 (せいぎょフローぶん - seigyo furō bun)
+  - **Nghĩa Tiếng Việt:** Các câu lệnh điều khiển luồng.
+  - **Hán tự:** 制 (chế), 御 (ngự), 文 (văn).
+- **Multi-way branch**
+  - **Kanji/Furigana:** 多分岐 (たぶんき - tabunpitsu)
+  - **Nghĩa Tiếng Việt:** Rẽ nhánh đa chiều.
+  - **Hán tự:** 多 (đa), 分 (phân), 岐 (kỳ).
+- **Coinflip**
+  - **Kanji/Furigana:** コインフリップ (koin furippu) / コイントス (koin tosu)
+  - **Nghĩa Tiếng Việt:** Tung đồng xu.
+- **Heads**
+  - **Kanji/Furigana:** 表 (おもて - omote)
+  - **Nghĩa Tiếng Việt:** Mặt ngửa (của đồng xu).
+  - **Hán tự:** 表 (biểu).
+- **Tails**
+  - **Kanji/Furigana:** 裏 (うら - ura)
+  - **Nghĩa Tiếng Việt:** Mặt sấp (của đồng xu).
+  - **Hán tự:** 裏 (lý).
+- **Landed on edge**
+  - **Kanji/Furigana:** エッジで着地した (エッジでちゃくちした - ejji de chakuchi shita)
+  - **Nghĩa Tiếng Việt:** Hạ cánh bằng cạnh (của đồng xu), kết quả khó xảy ra.
+  - **Hán tự:** 着 (trước), 地 (địa).
+- **Evaluated**
+  - **Kanji/Furigana:** 評価された (ひょうかされた - hyōka sareta)
+  - **Nghĩa Tiếng Việt:** Được đánh giá.
+  - **Hán tự:** 評 (bình), 価 (giá).
+- **Executed**
+  - **Kanji/Furigana:** 実行された (じっこうされた - jikkō sareta)
+  - **Nghĩa Tiếng Việt:** Được thực thi.
+  - **Hán tự:** 実 (thực), 行 (hành).
+- **Optional**
+  - **Kanji/Furigana:** オプション (opushon) / 任意 (にんい - nin'i)
+  - **Nghĩa Tiếng Việt:** Tùy chọn.
+  - **Hán tự:** 任 (nhậm), 意 (ý).
+- **Default case**
+  - **Kanji/Furigana:** デフォルトケース (deforuto kēsu) / 既定のケース (きていのケース - kitei no kēsu)
+  - **Nghĩa Tiếng Việt:** Trường hợp mặc định.
+  - **Hán tự:** 既 (kí), 定 (định).
+- **Fall through**
+  - **Kanji/Furigana:** フォールスルー (fōrusurū)
+  - **Nghĩa Tiếng Việt:** Chạy xuyên qua (trong câu lệnh switch).
+- **C-like languages**
+  - **Kanji/Furigana:** C言語系の言語 (Cげんごけいのげんご - C gengo kei no gengo)
+  - **Nghĩa Tiếng Việt:** Các ngôn ngữ giống C.
+  - **Hán tự:** 言 (ngôn), 語 (ngữ), 系 (hệ).
+- **Rarely used**
+  - **Kanji/Furigana:** めったに使われない (めったにつかわれない - metta ni tsukawarenai)
+  - **Nghĩa Tiếng Việt:** Hiếm khi được sử dụng.
+  - **Hán tự:** 使 (sử).
+- **Fallthrough statement**
+  - **Kanji/Furigana:** フォールスルー文 (fōrusurū bun)
+  - **Nghĩa Tiếng Việt:** Câu lệnh `fallthrough`.
+  - **Hán tự:** 文 (văn).
+- **Overrides**
+  - **Kanji/Furigana:** 上書きする (うわがきする - uwagi suru) / 無効にする (むこうにする - mukō ni suru)
+  - **Nghĩa Tiếng Việt:** Ghi đè, vô hiệu hóa.
+  - **Hán tự:** 上 (thượng), 書 (thư), 無 (vô), 効 (hiệu).
+- **Behavior**
+  - **Kanji/Furigana:** 動作 (どうさ - dōsa) / 振る舞い (ふるまい - furumai)
+  - **Nghĩa Tiếng Việt:** Hành vi.
+  - **Hán tự:** 動 (động), 作 (tác).
+- **Operand**
+  - **Kanji/Furigana:** オペランド (operando) / 被演算子 (ひえんざんし - hi-enzanshi)
+  - **Nghĩa Tiếng Việt:** Toán hạng.
+  - **Hán tự:** 被 (bị), 演 (diễn), 算 (toán), 子 (tử).
+- **Boolean expression**
+  - **Kanji/Furigana:** 論理式 (ろんりしき - ronri shiki)
+  - **Nghĩa Tiếng Việt:** Biểu thức boolean.
+  - **Hán tự:** 論 (luận), 理 (lý), 式 (thức).
+- **Tagless switch**
+  - **Kanji/Furigana:** タグレススイッチ (taguresu suicchi) / タグなしswitch (タグなしスイッチ)
+  - **Nghĩa Tiếng Việt:** Câu lệnh switch không có toán hạng (tagless switch).
+- **Equivalent to**
+  - **Kanji/Furigana:** 〜と等価である (〜ととうかである - 〜 to tōka de aru)
+  - **Nghĩa Tiếng Việt:** Tương đương với.
+  - **Hán tự:** 等 (đẳng), 価 (giá).
+- **Simple statement**
+  - **Kanji/Furigana:** 単純な文 (たんじゅんなぶん - tanjun na bun)
+  - **Nghĩa Tiếng Việt:** Câu lệnh đơn giản.
+  - **Hán tự:** 単 (đơn), 純 (thuần), 文 (văn).
+- **Variable declaration**
+  - **Kanji/Furigana:** 変数宣言 (へんすうせんげん - hensū sengen)
+  - **Nghĩa Tiếng Việt:** Khai báo biến.
+  - **Hán tự:** 変 (biến), 数 (số), 宣 (tuyên), 言 (ngôn).
+- **Increment statement**
+  - **Kanji/Furigana:** インクリメント文 (inkurimento bun) / 増加文 (ぞうかぶん - zōka bun)
+  - **Nghĩa Tiếng Việt:** Câu lệnh tăng.
+  - **Hán tự:** 増 (tăng), 加 (gia), 文 (văn).
+- **Assignment statement**
+  - **Kanji/Furigana:** 代入文 (だいにゅうぶん - dainyūbun)
+  - **Nghĩa Tiếng Việt:** Câu lệnh gán.
+  - **Hán tự:** 代 (đại), 入 (nhập), 文 (văn).
+- **Function call**
+  - **Kanji/Furigana:** 関数呼び出し (かんすうよびだし - kansū yobidashi)
+  - **Nghĩa Tiếng Việt:** Gọi hàm.
+  - **Hán tự:** 関 (quan), 数 (số), 呼 (hô), 出 (xuất).
+- **Tested**
+  - **Kanji/Furigana:** テストされた (tesuto sareta) / 検査された (けんさされた - kensa sareta)
+  - **Nghĩa Tiếng Việt:** Được kiểm tra.
+  - **Hán tự:** 検 (kiểm), 査 (tra).
+- **Break statement**
+  - **Kanji/Furigana:** break文 (ブレークぶん - burēku bun)
+  - **Nghĩa Tiếng Việt:** Câu lệnh break.
+  - **Hán tự:** 文 (văn).
+- **Continue statement**
+  - **Kanji/Furigana:** continue文 (コンティニューぶん - kontinyū bun)
+  - **Nghĩa Tiếng Việt:** Câu lệnh continue.
+  - **Hán tự:** 文 (văn).
+- **Modify**
+  - **Kanji/Furigana:** 修正する (しゅうせいする - shūsei suru) / 変更する (へんこうする - henkō suru)
+  - **Nghĩa Tiếng Việt:** Sửa đổi.
+  - **Hán tự:** 修 (tu), 正 (chính), 変 (biến), 更 (cánh).
+- **Resume**
+  - **Kanji/Furigana:** 再開する (さいかいする - saikai suru)
+  - **Nghĩa Tiếng Việt:** Tiếp tục lại, bắt đầu lại.
+  - **Hán tự:** 再 (tái), 開 (khai).
+- **Innermost**
+  - **Kanji/Furigana:** 最も内側の (もっともうちがわの - mottomo uchigawa no)
+  - **Nghĩa Tiếng Việt:** Trong cùng nhất.
+  - **Hán tự:** 最 (tối), 内 (nội), 側 (trắc).
+- **Select statement**
+  - **Kanji/Furigana:** select文 (セレクトぶん - sereku to bun)
+  - **Nghĩa Tiếng Việt:** Câu lệnh select (trong Go, dùng cho channel).
+  - **Hán tự:** 文 (văn).
+- **Iteration**
+  - **Kanji/Furigana:** 反復 (はんぷく - hanpuku) / イテレーション (iterēshon)
+  - **Nghĩa Tiếng Việt:** Lần lặp.
+  - **Hán tự:** 反 (phản), 復 (phục).
+- **Labeled statements**
+  - **Kanji/Furigana:** ラベル付き文 (ラベルつきぶん - raberu-tsuki bun)
+  - **Nghĩa Tiếng Việt:** Các câu lệnh có nhãn.
+  - **Hán tự:** 付 (phó), 文 (văn).
+- **For instance**
+  - **Kanji/Furigana:** 例えば (たとえば - tatoeba)
+  - **Nghĩa Tiếng Việt:** Ví dụ.
+  - **Hán tự:** 例 (lệ).
+- **Nested loops**
+  - **Kanji/Furigana:** 入れ子ループ (いれこループ - ireko rūpu)
+  - **Nghĩa Tiếng Việt:** Các vòng lặp lồng nhau.
+  - **Hán tự:** 入 (nhập), 子 (tử).
+- **Outermost loop**
+  - **Kanji/Furigana:** 最も外側のループ (もっともそとがわのループ - mottomo sotogawa no rūpu)
+  - **Nghĩa Tiếng Việt:** Vòng lặp ngoài cùng.
+  - **Hán tự:** 最 (tối), 外 (ngoại), 側 (trắc).
+- **Goto statement**
+  - **Kanji/Furigana:** goto文 (ごーとーぶん - gōtō bun)
+  - **Nghĩa Tiếng Việt:** Câu lệnh goto.
+  - **Hán tự:** 文 (văn).
+- **Machine-generated code**
+  - **Kanji/Furigana:** 機械生成コード (きかいせいせいコード - kikai seisei kōdo)
+  - **Nghĩa Tiếng Việt:** Mã được máy tạo ra.
+  - **Hán tự:** 機 (cơ), 械 (giới), 生 (sinh), 成 (thành).
+- **Regular use**
+  - **Kanji/Furigana:** 通常の利用 (つうじょうのりよう - tsūjō no riyō)
+  - **Nghĩa Tiếng Việt:** Sử dụng thông thường.
+  - **Hán tự:** 通 (thông), 常 (thường), 利 (lợi), 用 (dụng).
+- **Programmers**
+  - **Kanji/Furigana:** プログラマ (purogurama)
+  - **Nghĩa Tiếng Việt:** Lập trình viên.
+- **Named types**
+  - **Kanji/Furigana:** 名前付き型 (なまえつきかた - namae-tsuki kata) / 名前付きタイプ (なまえつきタイプ - namae-tsuki taipu)
+  - **Nghĩa Tiếng Việt:** Các kiểu có tên.
+  - **Hán tự:** 名 (danh), 前 (tiền), 付 (phó), 型 (hình).
+- **Type declaration**
+  - **Kanji/Furigana:** 型宣言 (かたせんげん - kata sengen)
+  - **Nghĩa Tiếng Việt:** Khai báo kiểu.
+  - **Hán tự:** 型 (hình), 宣 (tuyên), 言 (ngôn).
+- **Existing type**
+  - **Kanji/Furigana:** 既存の型 (きそんのかた - kison no kata)
+  - **Nghĩa Tiếng Việt:** Kiểu hiện có.
+  - **Hán tự:** 既 (kí), 存 (tồn), 型 (hình).
+- **Struct types**
+  - **Kanji/Furigana:** 構造体型 (こうぞうたいかた - kōzōtai kata)
+  - **Nghĩa Tiếng Việt:** Các kiểu struct.
+  - **Hán tự:** 構 (cấu), 造 (tạo), 体 (thể), 型 (hình).
+- **Familiar example**
+  - **Kanji/Furigana:** おなじみの例 (おなじみのれい - onajimi no rei)
+  - **Nghĩa Tiếng Việt:** Ví dụ quen thuộc.
+  - **Hán tự:** 例 (lệ).
+- **Definition**
+  - **Kanji/Furigana:** 定義 (ていぎ - teigi)
+  - **Nghĩa Tiếng Việt:** Định nghĩa.
+  - **Hán tự:** 定 (định), 義 (nghĩa).
+- **Point type**
+  - **Kanji/Furigana:** ポイント型 (ポイントかた - pointo kata)
+  - **Nghĩa Tiếng Việt:** Kiểu điểm (Point).
+  - **Hán tự:** 型 (hình).
+- **Graphics system**
+  - **Kanji/Furigana:** グラフィックスシステム (gurafikkusu shisutemu) / 図形システム (ずけいシステム - zukei shisutemu)
+  - **Nghĩa Tiếng Việt:** Hệ thống đồ họa.
+  - **Hán tự:** 図 (đồ), 形 (hình).
+- **Pointers**
+  - **Kanji/Furigana:** ポインタ (pointa)
+  - **Nghĩa Tiếng Việt:** Con trỏ.
+- **Values**
+  - **Kanji/Furigana:** 値 (あたい - atai)
+  - **Nghĩa Tiếng Việt:** Giá trị.
+  - **Hán tự:** 値 (trị).
+- **Address of a variable**
+  - **Kanji/Furigana:** 変数のアドレス (へんすうのあどれす - hensū no adoresu)
+  - **Nghĩa Tiếng Việt:** Địa chỉ của một biến.
+  - **Hán tự:** 変 (biến), 数 (số).
+- **Notably**
+  - **Kanji/Furigana:** 特に (とくに - tokuni) / 著しく (いちじるしく - ichijirushiku)
+  - **Nghĩa Tiếng Việt:** Đặc biệt là, đáng chú ý.
+  - **Hán tự:** 特 (đặc), 著 (trứ).
+- **Unconstrained**
+  - **Kanji/Furigana:** 制約されていない (せいやくされていない - seiyaku sarete inai) / 無制限の (むせいげんの - museigen no)
+  - **Nghĩa Tiếng Việt:** Không bị ràng buộc, không giới hạn.
+  - **Hán tự:** 制 (chế), 約 (ước), 無 (vô), 制 (chế), 限 (hạn).
+- **Disguised as**
+  - **Kanji/Furigana:** 〜として偽装された (〜としてぎそうされた - 〜 toshite gisō sareta) / 〜と見せかけられた (〜とみせかけられた - 〜 to misekakerareta)
+  - **Nghĩa Tiếng Việt:** Được ngụy trang thành.
+  - **Hán tự:** 偽 (ngụy), 装 (trang), 見 (kiến).
+- **References**
+  - **Kanji/Furigana:** 参照 (さんしょう - sanshō) / リファレンス (rifarensu)
+  - **Nghĩa Tiếng Việt:** Tham chiếu.
+  - **Hán tự:** 参 (tham), 照 (chiếu).
+- **Explicitly visible**
+  - **Kanji/Furigana:** 明示的に可視 (めいじてきにかし - meijiteki ni kashi)
+  - **Nghĩa Tiếng Việt:** Hiển thị rõ ràng, nhìn thấy tường minh.
+  - **Hán tự:** 明 (minh), 示 (thị), 可 (khả), 視 (thị).
+- **Yields**
+  - **Kanji/Furigana:** 生成する (せいせいする - seisei suru) / 返す (かえす - kaesu)
+  - **Nghĩa Tiếng Việt:** Tạo ra, trả về.
+  - **Hán tự:** 生 (sinh), 成 (thành), 返 (phản).
+- **Retrieves**
+  - **Kanji/Furigana:** 取得する (しゅとくする - shutoku suru)
+  - **Nghĩa Tiếng Việt:** Truy xuất, lấy lại.
+  - **Hán tự:** 取 (thủ), 得 (đắc).
+- **Pointer arithmetic**
+  - **Kanji/Furigana:** ポインタ演算 (ポインタえんざん - pointa enzan)
+  - **Nghĩa Tiếng Việt:** Phép toán con trỏ.
+  - **Hán tự:** 演 (diễn), 算 (toán).
+- **Methods**
+  - **Kanji/Furigana:** メソッド (mesoddo) / 手法 (しゅほう - shuhō)
+  - **Nghĩa Tiếng Việt:** Phương thức.
+  - **Hán tự:** 手 (thủ), 法 (pháp).
+- **Interfaces**
+  - **Kanji/Furigana:** インターフェース (intāfēsu)
+  - **Nghĩa Tiếng Việt:** Giao diện.
+- **Associated with**
+  - **Kanji/Furigana:** 〜と関連付けられた (〜とかんれんづけられた - 〜 to kanrenzukerareta)
+  - **Nghĩa Tiếng Việt:** Được liên kết với.
+  - **Hán tự:** 関 (quan), 連 (liên), 付 (phó).
+- **Unusual**
+  - **Kanji/Furigana:** 珍しい (めずらしい - mezurashii) / 異例の (いれいの - irei no)
+  - **Nghĩa Tiếng Việt:** Bất thường, khác lạ.
+  - **Hán tự:** 珍 (trân), 異 (dị), 例 (lệ).
+- **Attached to**
+  - **Kanji/Furigana:** 〜に添付された (〜にてんぷされた - 〜 ni tenpu sareta) / 〜に付けられた (〜につけられた - 〜 ni tsukerareta)
+  - **Nghĩa Tiếng Việt:** Được gắn vào.
+  - **Hán tự:** 添 (thiêm), 付 (phó).
+- **Abstract types**
+  - **Kanji/Furigana:** 抽象型 (ちゅうしょうがた - chūshōgata)
+  - **Nghĩa Tiếng Việt:** Các kiểu trừu tượng.
+  - **Hán tự:** 抽 (trừu), 象 (tượng), 型 (hình).
+- **Concrete types**
+  - **Kanji/Furigana:** 具体型 (ぐたいがた - gutaigata)
+  - **Nghĩa Tiếng Việt:** Các kiểu cụ thể.
+  - **Hán tự:** 具 (cụ), 体 (thể), 型 (hình).
+- **Represented**
+  - **Kanji/Furigana:** 表現された (ひょうげんされた - hyōgen sareta)
+  - **Nghĩa Tiếng Việt:** Được biểu diễn.
+  - **Hán tự:** 表 (biểu), 現 (hiện).
+- **Implemented**
+  - **Kanji/Furigana:** 実装された (じっそうされた - jissō sareta)
+  - **Nghĩa Tiếng Việt:** Được triển khai.
+  - **Hán tự:** 実 (thực), 装 (trang).
+- **Subject**
+  - **Kanji/Furigana:** 主題 (しゅだい - shudai) / テーマ (tēma)
+  - **Nghĩa Tiếng Việt:** Chủ đề.
+  - **Hán tự:** 主 (chủ), 題 (đề).
+- **Packages**
+  - **Kanji/Furigana:** パッケージ (pakkēji)
+  - **Nghĩa Tiếng Việt:** Gói.
+- **Extensive**
+  - **Kanji/Furigana:** 広範な (こうはんの - kōhan na) / 幅広い (はばひろい - habahiroi)
+  - **Nghĩa Tiếng Việt:** Rộng rãi, bao quát.
+  - **Hán tự:** 広 (quảng), 範 (phạm).
+- **Standard library**
+  - **Kanji/Furigana:** 標準ライブラリ (ひょうじゅんライブラリ - hyōjun raiburari)
+  - **Nghĩa Tiếng Việt:** Thư viện chuẩn.
+  - **Hán tự:** 標 (tiêu), 準 (chuẩn).
+- **Useful**
+  - **Kanji/Furigana:** 有用な (ゆうような - yūyō na) / 役に立つ (やくにたつ - yaku ni tatsu)
+  - **Nghĩa Tiếng Việt:** Hữu ích.
+  - **Hán tự:** 有 (hữu), 用 (dụng), 役 (dịch).
+- **Community**
+  - **Kanji/Furigana:** コミュニティ (komyuniti) / コミュニティー (komyunitī)
+  - **Nghĩa Tiếng Việt:** Cộng đồng.
+- **Programming**
+  - **Kanji/Furigana:** プログラミング (puroguramingu)
+  - **Nghĩa Tiếng Việt:** Lập trình.
+- **Original code**
+  - **Kanji/Furigana:** オリジナルコード (orijinaru kōdo) / 独自コード (どくじコード - dokuji kōdo)
+  - **Nghĩa Tiếng Việt:** Mã nguồn gốc.
+  - **Hán tự:** 独 (độc), 自 (tự).
+- **Throughout**
+  - **Kanji/Furigana:** 全体を通して (ぜんたいをとおして - zentai o tōshite)
+  - **Nghĩa Tiếng Việt:** Xuyên suốt.
+  - **Hán tự:** 全 (toàn), 体 (thể), 通 (thông).
+- **Point out**
+  - **Kanji/Furigana:** 指摘する (してきする - shiteki suru)
+  - **Nghĩa Tiếng Việt:** Chỉ ra.
+  - **Hán tự:** 指 (chỉ), 摘 (trích).
+- **Couple of dozen**
+  - **Kanji/Furigana:** 数十 (すうじゅう - sūjū)
+  - **Nghĩa Tiếng Việt:** Vài chục.
+  - **Hán tự:** 数 (số), 十 (thập).
+- **Important**
+  - **Kanji/Furigana:** 重要な (じゅうような - jūyō na)
+  - **Nghĩa Tiếng Việt:** Quan trọng.
+  - **Hán tự:** 重 (trọng), 要 (yếu).
+- **Standard packages**
+  - **Kanji/Furigana:** 標準パッケージ (ひょうじゅんパッケージ - hyōjun pakkēji)
+  - **Nghĩa Tiếng Việt:** Các gói chuẩn.
+  - **Hán tự:** 標 (tiêu), 準 (chuẩn).
+- **Mention**
+  - **Kanji/Furigana:** 言及する (げんきゅうする - genkyū suru)
+  - **Nghĩa Tiếng Việt:** Đề cập.
+  - **Hán tự:** 言 (ngôn), 及 (cập).
+- **Remotely**
+  - **Kanji/Furigana:** 遠隔で (えんかくで - enkaku de) / わずかでも (wazuka demo)
+  - **Nghĩa Tiếng Việt:** Từ xa, dù chỉ một chút.
+  - **Hán tự:** 遠 (viễn), 隔 (cách).
+- **Complete reference**
+  - **Kanji/Furigana:** 完全なリファレンス (かんぜんなリファレンス - kanzen na rifarensu)
+  - **Nghĩa Tiếng Việt:** Tài liệu tham khảo đầy đủ.
+  - **Hán tự:** 完 (hoàn), 全 (toàn).
+- **Embark on**
+  - **Kanji/Furigana:** 着手する (ちゃくしゅする - chakushu suru)
+  - **Nghĩa Tiếng Việt:** Bắt tay vào.
+  - **Hán tự:** 着 (trước), 手 (thủ).
+- **New program**
+  - **Kanji/Furigana:** 新しいプログラム (あたらしいプログラム - atarashii puroguramu)
+  - **Nghĩa Tiếng Việt:** Chương trình mới.
+  - **Hán tự:** 新 (tân).
+- **Good idea**
+  - **Kanji/Furigana:** 良い考え (よいかんがえ - yoi kangae)
+  - **Nghĩa Tiếng Việt:** Ý tưởng hay.
+  - **Hán tự:** 良 (lương), 考 (khảo), え (hội).
+- **Exist**
+  - **Kanji/Furigana:** 存在する (そんざいする - sonzai suru)
+  - **Nghĩa Tiếng Việt:** Tồn tại.
+  - **Hán tự:** 存 (tồn), 在 (tại).
+- **Might help**
+  - **Kanji/Furigana:** 役立つかもしれない (やくだつかもしれない - yakudatsu kamoshirenai)
+  - **Nghĩa Tiếng Việt:** Có thể giúp ích.
+  - **Hán tự:** 役 (dịch), 立 (lập).
+- **Easily**
+  - **Kanji/Furigana:** 簡単に (かんたんに - kantan ni)
+  - **Nghĩa Tiếng Việt:** Dễ dàng.
+  - **Hán tự:** 簡 (giản), 単 (đơn).
+- **Index**
+  - **Kanji/Furigana:** インデックス (indekkusu) / 索引 (さくいん - sakuin)
+  - **Nghĩa Tiếng Việt:** Chỉ mục.
+  - **Hán tự:** 索 (sách), 引 (dẫn).
+- **Contributed by**
+  - **Kanji/Furigana:** 〜によって提供された (〜によってていきょうされた - 〜 ni yotte teikyō sareta) / 〜が貢献した (〜がこうけんした - 〜 ga kōken shita)
+  - **Nghĩa Tiếng Việt:** Được đóng góp bởi.
+  - **Hán tự:** 提 (đề), 供 (cung), 貢 (cống), 献 (hiến).
+- **Accessible**
+  - **Kanji/Furigana:** アクセス可能 (アクセスかのう - akusesu kanō)
+  - **Nghĩa Tiếng Việt:** Có thể truy cập.
+  - **Hán tự:** 可 (khả), 能 (năng).
+- **Command line**
+  - **Kanji/Furigana:** コマンドライン (komandorain)
+  - **Nghĩa Tiếng Việt:** Dòng lệnh.
+- **ListenAndServe**
+  - **Kanji/Furigana:** ListenAndServe (リスンアンドサーブ - risun ando sābu)
+  - **Nghĩa Tiếng Việt:** Hàm lắng nghe và phục vụ (HTTP).
+- **Handler**
+  - **Kanji/Furigana:** ハンドラ (handora) / 処理関数 (しょりかんすう - shori kansū)
+  - **Nghĩa Tiếng Việt:** Hàm xử lý (request).
+  - **Hán tự:** 処 (xử), 理 (lý), 関 (quan), 数 (số).
+- **Incoming connections**
+  - **Kanji/Furigana:** 受信接続 (じゅしんせつぞく - jushin setsuzoku)
+  - **Nghĩa Tiếng Việt:** Các kết nối đến.
+  - **Hán tự:** 受 (thụ), 信 (tín), 接 (tiếp), 続 (tục).
+- **Documentation comments**
+  - **Kanji/Furigana:** ドキュメンテーションコメント (dokyumentēshon komento) / ドキュメントコメント (dokyumento komento)
+  - **Nghĩa Tiếng Việt:** Bình luận tài liệu.
+- **Beginning**
+  - **Kanji/Furigana:** 始まり (はじまり - hajimari) / 最初 (さいしょ - saisho)
+  - **Nghĩa Tiếng Việt:** Sự bắt đầu, khởi đầu.
+  - **Hán tự:** 始 (thủy), 最 (tối), 初 (sơ).
+- **Good style**
+  - **Kanji/Furigana:** 良いスタイル (よいスタイル - yoi sutairu) / 良い書き方 (よいかきかた - yoi kakikata)
+  - **Nghĩa Tiếng Việt:** Phong cách tốt, cách viết tốt.
+  - **Hán tự:** 良 (lương), 書 (thư), 方 (phương).
+- **Declaration**
+  - **Kanji/Furigana:** 宣言 (せんげん - sengen)
+  - **Nghĩa Tiếng Việt:** Khai báo.
+  - **Hán tự:** 宣 (tuyên), 言 (ngôn).
+- **Specify**
+  - **Kanji/Furigana:** 特定する (とくていする - tokutei suru) / 明記する (めいきする - meiki suru)
+  - **Nghĩa Tiếng Việt:** Chỉ định, xác định rõ.
+  - **Hán tự:** 特 (đặc), 定 (định), 明 (minh), 記 (ký).
+- **Behavior**
+  - **Kanji/Furigana:** 動作 (どうさ - dōsa) / 振る舞い (ふるまい - furumai)
+  - **Nghĩa Tiếng Việt:** Hành vi, cách ứng xử.
+  - **Hán tự:** 動 (động), 作 (tác), 振 (chấn), 舞 (vũ).
+- **Conventions**
+  - **Kanji/Furigana:** 慣習 (かんしゅう - kanshū) / 慣例 (かんれい - kanrei)
+  - **Nghĩa Tiếng Việt:** Các quy ước, tục lệ.
+  - **Hán tự:** 慣 (quán), 習 (tập), 例 (lệ).
+- **Locate**
+  - **Kanji/Furigana:** 特定する (とくていする - tokutei suru) / 見つける (みつける - mitsukeru)
+  - **Nghĩa Tiếng Việt:** Định vị, tìm thấy.
+  - **Hán tự:** 特 (đặc), 定 (định), 見 (kiến).
+- **Display**
+  - **Kanji/Furigana:** 表示する (ひょうじする - hyōji suru)
+  - **Nghĩa Tiếng Việt:** Hiển thị.
+  - **Hán tự:** 表 (biểu), 示 (thị).
+- **Span multiple lines**
+  - **Kanji/Furigana:** 複数行にわたる (ふくすうぎょうにわたる - fukusūgyō ni wataru)
+  - **Nghĩa Tiếng Việt:** Kéo dài nhiều dòng.
+  - **Hán tự:** 複 (phức), 数 (số), 行 (hành).
+- **Appear within**
+  - **Kanji/Furigana:** 〜内に現れる (〜ないにあらわれる - 〜 nai ni arawareru)
+  - **Nghĩa Tiếng Việt:** Xuất hiện bên trong.
+  - **Hán tự:** 内 (nội), 現 (hiện).
+- **Expression**
+  - **Kanji/Furigana:** 式 (しき - shiki) / 表現 (ひょうげん - hyōgen)
+  - **Nghĩa Tiếng Việt:** Biểu thức.
+  - **Hán tự:** 式 (thức), 表 (biểu), 現 (hiện).
+- **Statement**
+  - **Kanji/Furigana:** 文 (ぶん - bun)
+  - **Nghĩa Tiếng Việt:** Câu lệnh.
+  - **Hán tự:** 文 (văn).
+- **Notation**
+  - **Kanji/Furigana:** 表記法 (ひょうきほう - hyōkihō)
+  - **Nghĩa Tiếng Việt:** Ký hiệu, cách ghi.
+  - **Hán tự:** 表 (biểu), 記 (ký), 法 (pháp).
+- **Familiar from**
+  - **Kanji/Furigana:** 〜でおなじみ (〜でおなじみ - 〜 de onajimi)
+  - **Nghĩa Tiếng Việt:** Quen thuộc từ.
+- **Other languages**
+  - **Kanji/Furigana:** 他の言語 (たのげんご - tano gengo)
+  - **Nghĩa Tiếng Việt:** Các ngôn ngữ khác.
+  - **Hán tự:** 他 (tha), 言 (ngôn), 語 (ngữ).
+- **Block of explanatory text**
+  - **Kanji/Furigana:** 説明文のブロック (せつめいぶんのブロック - setsumeibun no burokku)
+  - **Nghĩa Tiếng Việt:** Khối văn bản giải thích.
+  - **Hán tự:** 説 (thuyết), 明 (minh), 文 (văn).
+- **Avoid**
+  - **Kanji/Furigana:** 避ける (さける - sakeru)
+  - **Nghĩa Tiếng Việt:** Tránh.
+  - **Hán tự:** 避 (tị).
+- **Special meaning**
+  - **Kanji/Furigana:** 特別な意味 (とくべつないみ - tokubetsu na imi)
+  - **Nghĩa Tiếng Việt:** Ý nghĩa đặc biệt.
+  - **Hán tự:** 特 (đặc), 別 (biệt), 意 (ý), 味 (vị).
+- **Nest**
+  - **Kanji/Furigana:** ネストする (nesuto suru) / 入れ子にする (いれこにする - ireko ni suru)
+  - **Nghĩa Tiếng Việt:** Lồng vào nhau.
+  - **Hán tự:** 入 (nhập), 子 (tử).
